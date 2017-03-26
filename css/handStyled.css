@@ -1,0 +1,103 @@
+/*Custom Styling made for the website to be used alongwith BootStrap*/
+
+.bg-1 {
+	background-color: #1abc9c; /* Sea Green */
+	color:#ffffff;
+	background-image: url('../images/bgim2.jpg');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+
+/*	-webkit-filter: blur(5px);
+	-moz-filter: blur(5px);
+	-o-filter: blur(5px);
+	-ms-filter: blur(5px);
+	filter: blur(5px);*/
+}
+
+.bg-2 { 
+	background-color: #474e5d; /* Dark Blue */ 
+	color: #ffffff;
+}
+
+.bg-3 { 
+	background-color: #ffffff; /* White */
+	color: #555555;
+}
+
+.bg-4 { 
+	background-color: #2f2f2f;
+	color: #ffffff;
+}
+
+.container-fluid {
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+
+.navbar {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	border: 0;
+	border-radius: 0;
+	margin-bottom: 1px;
+	font-size: 12px;
+	letter-spacing: 5px;
+}
+
+.navbar-nav li a:hover {
+	color: #1abc9c !important;
+}
+
+.navSpaceFiller {
+	height: 80px;
+}
+
+.bg-1{
+	padding-top: 200px;
+	padding-bottom: 200px;	
+}
+
+.custom-align-top {
+	vertical-align: top;
+	display: inline-block;
+}
+
+.article img{
+	position: relative;
+	width: 60%;
+	height: 15vw;
+}
+
+.article:hover>img{
+	display: none;
+}
+
+.article div{
+	margin-left: 20%;
+	position: relative;
+	visibility: hidden;
+}
+
+.article:hover>div{
+	width:60%;
+	height:15vw;
+	background:#76fccd;
+	color: black;
+	text-align: center;
+	padding-top:7.5vw; 
+	visibility: visible;
+}
+
+a{
+	color: black;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #db6d16;
+}

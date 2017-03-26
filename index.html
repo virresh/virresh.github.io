@@ -1,72 +1,226 @@
+<!DOCTYPE html>
 <html>
 <head>
-	<link rel="stylesheet" type="text/css" href="css/style1.css">
+	<title>Viresh Gupta | Developer</title>
 	<link rel="icon" href="images/vf.ico">
-	<title>Home | Viresh Gupta</title>
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/handStyled.css">
+
 	<meta name="author" content="Viresh Gupta" />
 	<meta name="description" content="Profile Website"/>
 	<meta name="keywords" content="viresh gupta"/>
-
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta charset="utf-8">
 </head>
-<body>
-<div id = "allwrapper">
-<div id="page-container">
+<body data-spy="scroll" data-target="#myNavbar">
 
-	<div id="navigation">
-		<ul>
-			<li> <a href="index.html" class="active">Home</a> </li>
-			<li> <a href="achievements.html">Achievements</a> </li>
-			<li> <a href="skills.html">Skills</a> </li>
-			<li> <a href="contact.html">Contact Me</a> </li>
-		</ul>
+	<nav class="navbar navbar-default navbar-fixed-top">
+		<div class="container">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span> 
+					<span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand">Viresh Gupta</a>
+			</div>
+			<div class="collapse navbar-collapse" id="myNavbar">
+				<ul class="nav navbar-nav navbar-right">
+					<li><a href="#home"><span class="glyphicon glyphicon-home"></span> Home</a></li>
+					<li><a href="#about"><span class="glyphicon glyphicon-info-sign"></span> About</a></li>
+					<li><a href="#skills"><span class="glyphicon glyphicon-asterisk"></span> Skills</a></li>
+					<li><a href="#contact"><span class="glyphicon glyphicon-user"></span> Contact</a></li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+	<div class="navSpaceFiller"></div>
+	<div class="container-fluid bg-1 text-center" id="home">
+		<h1>Hi, I am Viresh.</h1>
+		<h3>
+			<span class="glyphicon glyphicon-console"> </span> 
+			<span class="typewrite" data-period="2000" data-type='["I am a Developer.", "I love to Code.", "I love to learn." ]' style="text-decoration: none;">
+			<span class="wrap"></span>
+			</span>
+		</h3>
 	</div>
 
-	<div id="header">
-		<h1>Hello Everyone ! <br> Welcome to my site</h1>
+	<div class="container-fluid bg-3 text-center" id="about">
+		<h3>
+			<p>
+				I am an Undergrad at IIIT-Delhi pursuing B.Tech in CSE. 
+			</p>
+			<p>
+				I am an enthusiastic programmer and love to participate in Hackathons / CTF's / Programming contests etc.
+			</p>
+			<p>
+				I also am a nature lover and love star gazing.
+			</p>
+		</h3>
 	</div>
 
-	<div id="sidebar">
-		<div class="padding" id="aside">
-			"<i>A person who never made a mistake, never tried anything new.
-			</i>"<br>
-			<span>&nbsp; &nbsp;- Albert Einstein</span>
+	<div class="container-fluid bg-2 text-center" id="skills">
+		<h1> Skills </h1>
+		<br>
+		<h3> Languages </h3>
+		<br>
+		<div class="row">
+			<div class="col-xs-3 article text-center">
+				<img src="images/c.png">
+				<div>C++</div>
+			</div>
 
+			<div class="col-xs-3 article text-center">
+				<img src="images/chash.png">
+				<div>C#</div>
+			</div>
+
+			<div class="col-xs-3 article text-center">
+				<img src="images/python.png">
+				<div>Python</div>
+			</div>
+
+			<div class="col-xs-3 article text-center">
+				<img src="images/jva.png">
+				<div>Java</div>
+			</div>
+		</div>
+
+		<br>
+		<h3> Web Technologies </h3>
+		<br>
+		<div class="row">
+			<div class="col-xs-3 article text-center">
+				<img src="images/php.png">
+				<div>PHP</div>
+			</div>
+
+			<div class="col-xs-3 article text-center">
+				<img src="images/sql.png">
+				<div>MySQL</div>
+			</div>
+
+			<div class="col-xs-3 article text-center">
+				<img src="images/html.png">
+				<div>HTML</div>
+			</div>
+
+			<div class="col-xs-3 article text-center">
+				<img src="images/css.png">
+				<div>CSS</div>
+			</div>
+		</div>
+		<br>
+		<h3> Designing Tools </h3>
+		<br>
+		<div class="row">
+			<div class="col-xs-1 text-center">
+				
+			</div>
+
+			<div class="col-xs-3 article text-center">
+				<img src="images/ps.png">
+				<div>Photoshop</div>
+			</div>
+
+			<div class="col-xs-3 article text-center">
+				<img src="images/blender.png">
+				<div>Blender</div>
+			</div>
+
+			<div class="col-xs-3 article text-center">
+				<img src="images/unity.png">
+				<div>Unity</div>
+			</div>
+
+			<div class="col-xs-2 text-center">
+				
+			</div>
+
+		</div>
+
+		<br>
+		<h3> Frameworks and Development Tools </h3>
+		<br>
+		<div class="row">
+			<div class="col-xs-3 article text-center">
+				<img src="images/flask.png">
+				<div>Flask</div>
+			</div>
+
+			<div class="col-xs-3 article text-center">
+				<img src="images/Androidstudio.png">
+				<div>Android Studio</div>
+			</div>
+
+			<div class="col-xs-3 article text-center">
+				<img src="images/git.png">
+				<div>Git</div>
+			</div>
+
+			<div class="col-xs-3 article text-center">
+				<img src="images/vue.png">
+				<div>Vue JS</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-xs-3 article text-center">
+				<!-- <img src="images/php.png">
+				<div>Flask</div> -->
+			</div>
+
+			<div class="col-xs-3 article text-center">
+				<img src="images/bulma.png">
+				<div>Bulma</div>
+			</div>
+
+			<div class="col-xs-3 article text-center">
+				<img src="images/bootstrap.png">
+				<div>Bootstrap</div>
+			</div>
+
+			<div class="col-xs-3 article text-center">
+				<!-- <img src="images/css.png">
+				<div>Bootstrap</div> -->
+			</div>
+		</div>
+
+	</div>
+	<div class="container-fluid bg-3 text-center" id="contact">
+		<h3>Catch me at any of the following places :</h3>
+		<br>
+		<div class="row">
+			<div class="col-xs-3 article text-center">
+				<img src="images/github.png">
+				<div><a href="https://github.com/virresh">GIT Hub</a></div>
+			</div>
+
+			<div class="col-xs-3 article text-center">
+				<img src="images/codechef.jpg">
+				<div><a href="https://www.codechef.com/users/virresh">CodeChef</a></div>
+			</div>
+
+			<div class="col-xs-3 article text-center">
+				<img src="images/fb.jpg">
+				<div><a href="https://www.facebook.com/viresh.gupta.376">Facebook</a></div>
+			</div>
+
+			<div class="col-xs-3 article text-center">
+				<img src="images/wordpress.png">
+				<div><a href="https://virresh.wordpress.com/">Blog</a></div>
+			</div>
 		</div>
 	</div>
 
-	<div id="content">
-		<div class="padding">
-			<h2>Hello Visitor,</h2>
-			<p>
-				Thanks for stopping by.<br>
-				My name is Viresh Gupta, and I am presently a first year B.Tech student in Computer Science at IIITD. This website will give you an insight into my personality. I hope you would find it worth reading.
-			</p>
-			<br>
-			<br>
-			<p>
-				I am a programming enthusiast and like to try my hands on new things. I am fond of participating in coding contests / capture the flag competitions / cryptic hunts / hackathons and anything else that is possible. Apart from technical challenges, I also love observing nature and stargazing. I have my own little garden, where I spend most of my idle time.
-			</p>
-			<br>
-			<br>
-			<p>
-				If there's a project you would like to work upon with me, do not hesitate to contact me.
-			</p>
+	<script src="scripts/jquery.min.js"> </script>
+	<script src="js/bootstrap.min.js"> </script>
+	<script src="scripts/customScripts.js"></script>
 
-			<img src="images/title.png">
-		</div>
-	</div>	
+	<footer class="container-fluid bg-4 text-center">
+		<p>Made with efforts by Viresh</p> 
+		<p>&copy; 2017</p>
+	</footer>
 
-	<div id="footer">
-		<div id="altnav">
-			<a href="index.html">Home</a> - 
-			<a href="achievements.html">Achievements</a> - 
-			<a href="skills.html">Skills</a> - 
-			<a href="contact.html">Contact Me</a>
-		</div>
-		Copyright © Viresh Gupta <br>
-		Designed with Efforts by Viresh
-	</div>
-</div>
-</div>
 </body>
 </html>
