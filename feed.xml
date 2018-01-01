@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>{ Viresh Gupta }</title>
+		<description>Web Space of Viresh Gupta, Tech Enthusiast. Geek Stuff and Projects ;)</description>
+		<link>http://localhost:4000</link>
+		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>LogicX</title>
+				
+				
+					<description>&lt;p&gt;The application is made on bluemix platform and uses a flask powered backend. It uses ACE editor for the code editing, syntax highlighting and other code based features. Also it is supported by using cookie based sessions (cryptographically secured using a secret key so interference is difficult). Also the backend implements a timeout system for compiling and executing programs so as to check for infinite loops etc. 
+The frontend has been augmented with bootstrap css framework for compatibility with upto tablets and large screen mobile phones.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Mon, 18 Dec 2017 00:00:00 +0530</pubDate>
+				<link>http://localhost:4000/projects/LogicX</link>
+				<guid isPermaLink="true">http://localhost:4000/projects/LogicX</guid>
+			</item>
+		
+			<item>
+				<title>Arm Assembly Simulator</title>
+				
+				
+					<description>&lt;p&gt;A simulator for ARM assembly language subset. Reads machine code from a file and simulates it like an arm processor in a 5 stage cycle.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Fri, 10 Nov 2017 00:00:00 +0530</pubDate>
+				<link>http://localhost:4000/projects/ArmSimulator</link>
+				<guid isPermaLink="true">http://localhost:4000/projects/ArmSimulator</guid>
+			</item>
+		
+			<item>
+				<title>Schedulr</title>
+				
+				
+					<description>&lt;p&gt;A javafx based program to handle the time table management of an institution Supports functionality for&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sun, 10 Sep 2017 00:00:00 +0530</pubDate>
+				<link>http://localhost:4000/projects/Schedulr</link>
+				<guid isPermaLink="true">http://localhost:4000/projects/Schedulr</guid>
+			</item>
+		
+			<item>
+				<title>FinGame</title>
+				
+				
+					<description>&lt;p&gt;A financial game aimed at teaching people more about finance, playable in levels, this game is a single player game with an optional two player mode, where one can compete against another friend and win. Aim of the game - Invest smart and end up with the maximum profit at the end of the game time.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Fri, 25 Aug 2017 00:00:00 +0530</pubDate>
+				<link>http://localhost:4000/projects/FinGame</link>
+				<guid isPermaLink="true">http://localhost:4000/projects/FinGame</guid>
+			</item>
+		
+			<item>
+				<title>iDabba</title>
+				
+				
+					<description>&lt;p&gt;Our project, named “iDabba” is a smart container which identifies what fruit/vegetable/item is kept in it ( the item has to be one of those trained for image analysis ), the surrounding temperature, humidity of the item, and its weight. All this information is visible to the user via a web app. The container designed is fuss-free, convenient and washable. We were motivated to design this project to easily solve everyday hassles in kitchens and households regarding spoilage and infestation. It can even be scaled to meet the needs of farmers and storage companies for smart storing options and act as a small-scale silo.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sat, 20 May 2017 00:00:00 +0530</pubDate>
+				<link>http://localhost:4000/projects/iDabba</link>
+				<guid isPermaLink="true">http://localhost:4000/projects/iDabba</guid>
+			</item>
+		
+			<item>
+				<title>Web Development for Esya'17</title>
+				
+				
+					<description>&lt;p&gt;I developed the websites for Esya 2017. Fully developed the website and organised the annual hackathon hackIIITD and lead web developer for Esya 2017’s website.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Wed, 10 May 2017 00:00:00 +0530</pubDate>
+				<link>http://localhost:4000/projects/webDev</link>
+				<guid isPermaLink="true">http://localhost:4000/projects/webDev</guid>
+			</item>
+		
+			<item>
+				<title>Android Workshop Apps</title>
+				
+				
+					<description>&lt;p&gt;These are a collection of my android apps made during the applied CS with Android Workshop.&lt;br /&gt;
+The following apps are open as of now :&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt; &lt;a href=&quot;https://github.com/virresh/AndroidWorkshop-Ghost&quot;&gt; Ghost &lt;/a&gt;: It is an implementation of the popular word game Ghost. Uses various data structure concepts like BST and Tries etc.&lt;/li&gt;
+	&lt;li&gt; &lt;a href=&quot;https://github.com/virresh/AndroidWorkshop-AnagramApp&quot;&gt; Anagram App &lt;/a&gt;: This app's goal is a game that requires users to generate all the anagrams they can by adding a letter to the given word. Uses sets, hashmaps etc.&lt;/li&gt;
+	&lt;li&gt; &lt;a href=&quot;https://github.com/virresh/AndroidWorkshop-ScarnesDice&quot;&gt;Scarne's Dice&lt;/a&gt;: This app is a GUI making app for die rolling. Teaches asynchronous programming.&lt;/li&gt;
+	&lt;li&gt; &lt;a href=&quot;https://github.com/virresh/AndroidWorkshop-Puzzle8&quot;&gt;Puzzle 8&lt;/a&gt;: This is the classic game of Puzzle 8, implemented in Android with a custom image from camera. Uses A* algorithm for the AI part.&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+				
+				<pubDate>Mon, 20 Feb 2017 00:00:00 +0530</pubDate>
+				<link>http://localhost:4000/projects/AndWorkshop</link>
+				<guid isPermaLink="true">http://localhost:4000/projects/AndWorkshop</guid>
+			</item>
+		
+			<item>
+				<title>CardioSol</title>
+				
+				
+					<description>&lt;p&gt;CardioSol is one of the most efficient and easy ways of detecting the possible occurence of Tachycardia. Capable of detecting your heartbeat rate from the webcam, CardioSol is a must have for one’s well - being, as it carries out easy checkups at home. CardioSol does not need Internet connectivity and thus, comes to the rescue of people living in remote areas with poor internet connectivity, connecting them with suitable doctors in their city, in case they are detected with the possible occurence of the disease.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sun, 15 Jan 2017 00:00:00 +0530</pubDate>
+				<link>http://localhost:4000/projects/CardioSol</link>
+				<guid isPermaLink="true">http://localhost:4000/projects/CardioSol</guid>
+			</item>
+		
+			<item>
+				<title>Escapade Game</title>
+				
+				
+					<description>&lt;p&gt;This is a 3D single player virtual reality game in Unity, complete with the environment and a playable character. Uses Google Cardboard API and other freely availaible assets from Unity store.
+&lt;br /&gt;
+Making of the game &lt;a href=&quot;http://smwiki2016.wikidot.com/wiki:3d-game-development-using-unity&quot;&gt;documented here&lt;/a&gt;.
+&lt;br /&gt;
+Download the APK &lt;a href=&quot;https://github.com/virresh/SM-VR-Game/blob/master/Builds/finalGame.apk?raw=true&quot;&gt;here&lt;/a&gt; and play on your android phone !&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sun, 20 Nov 2016 00:00:00 +0530</pubDate>
+				<link>http://localhost:4000/projects/VrGame</link>
+				<guid isPermaLink="true">http://localhost:4000/projects/VrGame</guid>
+			</item>
+		
+			<item>
+				<title>Air Pollution Measurer</title>
+				
+				
+					<description>&lt;p&gt;This is an arduino based solution that can measure values from dust sensor (Sharp Dust Sensor) and Gas Sensor (MQ135) It then displays led colour in accordance with the sensor value to indicate amount of pollution, where the led blinks alternately, giving the output of both sensors visually on the same RGB led.
+&lt;br /&gt;
+Also you can access the Arduino code &lt;a href=&quot;https://github.com/virresh/air-pollution-makersbox&quot;&gt;here&lt;/a&gt;.
+&lt;br /&gt;
+Image :
+&lt;img src=&quot;/img/projects/airpol.png&quot; /&gt;&lt;/p&gt;
+</description>
+				
+				<pubDate>Sat, 12 Nov 2016 00:00:00 +0530</pubDate>
+				<link>http://localhost:4000/projects/AirPol</link>
+				<guid isPermaLink="true">http://localhost:4000/projects/AirPol</guid>
+			</item>
+		
+	</channel>
+</rss>
