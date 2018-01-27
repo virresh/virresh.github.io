@@ -10,27 +10,26 @@
 				<title>LogicX</title>
 				
 				
-					<description>&lt;p&gt;The application is made on bluemix platform and uses a flask powered backend. It uses ACE editor for the code editing, syntax highlighting and other code based features. Also it is supported by using cookie based sessions (cryptographically secured using a secret key so interference is difficult). Also the backend implements a timeout system for compiling and executing programs so as to check for infinite loops etc. 
-The frontend has been augmented with bootstrap css framework for compatibility with upto tablets and large screen mobile phones.&lt;/p&gt;
+					<description>&lt;p&gt;This is an online judge intended to be used as a game for new programmers to learn the concepts of loops and operators. &lt;br /&gt;&lt;/p&gt;
 
 </description>
 				
-				<pubDate>Mon, 18 Dec 2017 00:00:00 +0530</pubDate>
+				<!-- <pubDate>Mon, 18 Dec 2017 00:00:00 +0530</pubDate> -->
 				<link>http://localhost:4000/projects/LogicX</link>
 				<guid isPermaLink="true">http://localhost:4000/projects/LogicX</guid>
 			</item>
 		
 			<item>
-				<title>Arm Assembly Simulator</title>
+				<title>iDabba</title>
 				
 				
-					<description>&lt;p&gt;A simulator for ARM assembly language subset. Reads machine code from a file and simulates it like an arm processor in a 5 stage cycle.&lt;/p&gt;
+					<description>&lt;p&gt;The project, named “iDabba” is a smart container which identifies what fruit/vegetable/item is kept in it ( the item has to be one of those trained for image analysis ), the surrounding temperature, humidity of the item, and its weight. All this information is visible to the user via a web app. The container designed is fuss-free, convenient and washable. We were motivated to design this project to easily solve everyday hassles in kitchens and households regarding spoilage and infestation. It can even be scaled to meet the needs of farmers and storage companies for smart storing options and act as a small-scale silo.&lt;/p&gt;
 
 </description>
 				
-				<pubDate>Fri, 10 Nov 2017 00:00:00 +0530</pubDate>
-				<link>http://localhost:4000/projects/ArmSimulator</link>
-				<guid isPermaLink="true">http://localhost:4000/projects/ArmSimulator</guid>
+				<!-- <pubDate>Fri, 20 Oct 2017 00:00:00 +0530</pubDate> -->
+				<link>http://localhost:4000/projects/iDabba</link>
+				<guid isPermaLink="true">http://localhost:4000/projects/iDabba</guid>
 			</item>
 		
 			<item>
@@ -41,9 +40,22 @@ The frontend has been augmented with bootstrap css framework for compatibility w
 
 </description>
 				
-				<pubDate>Sun, 10 Sep 2017 00:00:00 +0530</pubDate>
+				<!-- <pubDate>Sun, 10 Sep 2017 00:00:00 +0530</pubDate> -->
 				<link>http://localhost:4000/projects/Schedulr</link>
 				<guid isPermaLink="true">http://localhost:4000/projects/Schedulr</guid>
+			</item>
+		
+			<item>
+				<title>Arm Assembly Simulator</title>
+				
+				
+					<description>&lt;p&gt;A simulator for ARM assembly language subset. Reads machine code from a file and simulates it like an arm processor in a 5 stage cycle.&lt;/p&gt;
+
+</description>
+				
+				<!-- <pubDate>Sat, 09 Sep 2017 00:00:00 +0530</pubDate> -->
+				<link>http://localhost:4000/projects/ArmSimulator</link>
+				<guid isPermaLink="true">http://localhost:4000/projects/ArmSimulator</guid>
 			</item>
 		
 			<item>
@@ -54,22 +66,9 @@ The frontend has been augmented with bootstrap css framework for compatibility w
 
 </description>
 				
-				<pubDate>Fri, 25 Aug 2017 00:00:00 +0530</pubDate>
+				<!-- <pubDate>Fri, 25 Aug 2017 00:00:00 +0530</pubDate> -->
 				<link>http://localhost:4000/projects/FinGame</link>
 				<guid isPermaLink="true">http://localhost:4000/projects/FinGame</guid>
-			</item>
-		
-			<item>
-				<title>iDabba</title>
-				
-				
-					<description>&lt;p&gt;Our project, named “iDabba” is a smart container which identifies what fruit/vegetable/item is kept in it ( the item has to be one of those trained for image analysis ), the surrounding temperature, humidity of the item, and its weight. All this information is visible to the user via a web app. The container designed is fuss-free, convenient and washable. We were motivated to design this project to easily solve everyday hassles in kitchens and households regarding spoilage and infestation. It can even be scaled to meet the needs of farmers and storage companies for smart storing options and act as a small-scale silo.&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Sat, 20 May 2017 00:00:00 +0530</pubDate>
-				<link>http://localhost:4000/projects/iDabba</link>
-				<guid isPermaLink="true">http://localhost:4000/projects/iDabba</guid>
 			</item>
 		
 			<item>
@@ -80,7 +79,7 @@ The frontend has been augmented with bootstrap css framework for compatibility w
 
 </description>
 				
-				<pubDate>Wed, 10 May 2017 00:00:00 +0530</pubDate>
+				<!-- <pubDate>Wed, 10 May 2017 00:00:00 +0530</pubDate> -->
 				<link>http://localhost:4000/projects/webDev</link>
 				<guid isPermaLink="true">http://localhost:4000/projects/webDev</guid>
 			</item>
@@ -91,16 +90,19 @@ The frontend has been augmented with bootstrap css framework for compatibility w
 				
 					<description>&lt;p&gt;These are a collection of my android apps made during the applied CS with Android Workshop.&lt;br /&gt;
 The following apps are open as of now :&lt;/p&gt;
+&lt;div style=&quot;text-align:left;&quot;&gt;
 &lt;ul&gt;
 	&lt;li&gt; &lt;a href=&quot;https://github.com/virresh/AndroidWorkshop-Ghost&quot;&gt; Ghost &lt;/a&gt;: It is an implementation of the popular word game Ghost. Uses various data structure concepts like BST and Tries etc.&lt;/li&gt;
 	&lt;li&gt; &lt;a href=&quot;https://github.com/virresh/AndroidWorkshop-AnagramApp&quot;&gt; Anagram App &lt;/a&gt;: This app's goal is a game that requires users to generate all the anagrams they can by adding a letter to the given word. Uses sets, hashmaps etc.&lt;/li&gt;
 	&lt;li&gt; &lt;a href=&quot;https://github.com/virresh/AndroidWorkshop-ScarnesDice&quot;&gt;Scarne's Dice&lt;/a&gt;: This app is a GUI making app for die rolling. Teaches asynchronous programming.&lt;/li&gt;
 	&lt;li&gt; &lt;a href=&quot;https://github.com/virresh/AndroidWorkshop-Puzzle8&quot;&gt;Puzzle 8&lt;/a&gt;: This is the classic game of Puzzle 8, implemented in Android with a custom image from camera. Uses A* algorithm for the AI part.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;/div&gt;
+&lt;p&gt;The independant Android Application made completely by self for the Code sprint during the workshop is an implementation of the Classic puzzle of Tower of Hanoi. [&lt;a href=&quot;https://github.com/virresh/TowerOfHanoi&quot;&gt;Source Code&lt;/a&gt;]&lt;br /&gt;&lt;/p&gt;
 
 </description>
 				
-				<pubDate>Mon, 20 Feb 2017 00:00:00 +0530</pubDate>
+				<!-- <pubDate>Mon, 20 Feb 2017 00:00:00 +0530</pubDate> -->
 				<link>http://localhost:4000/projects/AndWorkshop</link>
 				<guid isPermaLink="true">http://localhost:4000/projects/AndWorkshop</guid>
 			</item>
@@ -113,7 +115,7 @@ The following apps are open as of now :&lt;/p&gt;
 
 </description>
 				
-				<pubDate>Sun, 15 Jan 2017 00:00:00 +0530</pubDate>
+				<!-- <pubDate>Sun, 15 Jan 2017 00:00:00 +0530</pubDate> -->
 				<link>http://localhost:4000/projects/CardioSol</link>
 				<guid isPermaLink="true">http://localhost:4000/projects/CardioSol</guid>
 			</item>
@@ -130,7 +132,7 @@ Download the APK &lt;a href=&quot;https://github.com/virresh/SM-VR-Game/blob/mas
 
 </description>
 				
-				<pubDate>Sun, 20 Nov 2016 00:00:00 +0530</pubDate>
+				<!-- <pubDate>Sun, 20 Nov 2016 00:00:00 +0530</pubDate> -->
 				<link>http://localhost:4000/projects/VrGame</link>
 				<guid isPermaLink="true">http://localhost:4000/projects/VrGame</guid>
 			</item>
@@ -147,7 +149,7 @@ Image :
 &lt;img src=&quot;/img/projects/airpol.png&quot; /&gt;&lt;/p&gt;
 </description>
 				
-				<pubDate>Sat, 12 Nov 2016 00:00:00 +0530</pubDate>
+				<!-- <pubDate>Sat, 12 Nov 2016 00:00:00 +0530</pubDate> -->
 				<link>http://localhost:4000/projects/AirPol</link>
 				<guid isPermaLink="true">http://localhost:4000/projects/AirPol</guid>
 			</item>

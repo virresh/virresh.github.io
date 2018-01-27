@@ -20,14 +20,14 @@
   <link rel="canonical" href="/">
   <title>{ Viresh Gupta }</title>
 
-  <!-- Material Design Bootstrap -->
-  <link href="/css/mdb.min.css" rel="stylesheet">
-  
   <!-- Bootstrap Core CSS -->
+  <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"> -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 
   <!-- Custom CSS -->
   <link href="/css/grayscale.css" rel="stylesheet">
+  <link href="/css/custom.css" rel="stylesheet">
+  
   
   <link href="/css/timeline.css" rel="stylesheet">
   
@@ -130,7 +130,7 @@
     
 <!-- Intro Start -->
 
-<header class="intro">
+<header class="intro" style="height:80vh;min-height:initial;background-position-y:center;">
   <div class="intro-body">
     <div class="container">
       <div class="row">
@@ -374,6 +374,8 @@ If you would like more geek stuff by me, head over to my <a href="https://virres
         
       
         
+      
+        
           
 <!-- Latest Post Preview Start -->
 
@@ -382,7 +384,7 @@ If you would like more geek stuff by me, head over to my <a href="https://virres
       <div class="col-md-10 col-md-offset-1">
 
         <h2 id="recent-projects">Recent Projects</h2>
-<p>(Click on image to directly go to repo, click on text to view more information)</p>
+<p>(Click on text to directly go to repo, click on image to view more information)</p>
 
 
 
@@ -398,45 +400,61 @@ If you would like more geek stuff by me, head over to my <a href="https://virres
         </h4>
 
         <section class="text-justify">
-          <p>The application is made on bluemix platform and uses a flask powered backend. It uses ACE editor for the code editing, syntax highlighting and other code based features. Also it is supported by using cookie based sessions (cryptographically secured using a secret key so interference is difficult). Also the backend implements a timeout system for compiling and executing programs so as to check for infinite loops etc. 
-The frontend has been augmented with bootstrap css framework for compatibility with upto tablets and large screen mobile phones.</p>
-
-<p>Source code here.</p>
-
-
+          <p>This is an online judge intended to be used as a game for new programmers to learn the concepts of loops and operators.</p> <p>The application is made on bluemix platform and uses a flask powered backend. It uses ACE editor for the code editing, syntax highlighting and other code based features. Also it is supported by using cookie based sessions (cryptographically secured using a secret key so interference is difficult). Also the backend implements a timeout system for compiling and executing programs so as to check for infinite loops etc. The frontend has been augmented with...
         </section> -->
         <div class="row">
         
           
 <!-- Post List Start -->
 
-<div class="col-md-4">
-<h4 align="left">
-  <div class="card text-center">
-    <a href="https://github.com/virresh/LogicX">
-    
-    <img class="card-img-top" style="max-height: 250px;" src="https://raw.githubusercontent.com/virresh/LogicX/master/static/images/favicon.png" alt="LogicX">
-    
-    </a>
-    <div class="card-block">
-      <p class="">
-        <!-- <strong>18 Dec 2017</strong> <br> -->
-        <small>.
-          <a class="category" href="/categories/individual.html">
-            Individual
+<div class="col-md-4" style="min-height:150px;">
+    <h4 align="left">
+        <div class="center-block" style="height:250px; width:250px; display:flex; align-items:center; flex-direction: column; justify-content: center;">
+            <div > 
+                <a href="/projects/LogicX">
+                
+                <img class="img-fluid img-thumbnail" style="max-height:200px; max-width:200px" src="https://raw.githubusercontent.com/virresh/LogicX/master/static/images/favicon.png" alt="LogicX">
+                
+                </a>
+            </div>
+            <div style="text-align:center;">
+                <small>.
+                  <a class="category" href="/categories/individual.html">
+                    Individual
+                  </a>
+                .</small>
+            </div>
+            <div style="text-align:center;">
+                <a href="https://github.com/virresh/LogicX">
+                  <strong>LogicX</strong>
+                </a>
+            </div>
+        </div>
+      <!-- <div class="card text-center">
+        <a href="/projects/LogicX">
+        
+        <img class="card-img-top img-fluid img-thumbnail" src="https://raw.githubusercontent.com/virresh/LogicX/master/static/images/favicon.png" alt="LogicX">
+        
+        </a>
+        <div class="card-block">
+          <p class="">
+            <! - - <strong>18 Dec 2017</strong> <br> - - >
+            <small>.
+              <a class="category" href="/categories/individual.html">
+                Individual
+              </a>
+            .</small>
+          <br>
+          <br class="visible-xs-block">
+          <a href="https://github.com/virresh/LogicX">
+            <strong>LogicX</strong>
           </a>
-        .</small>
-      <br>
-      <br class="visible-xs-block">
-      <a href="/projects/LogicX">
-        <strong>LogicX</strong>
-      </a>
-      <br class="visible-xs-block">
-      <!-- <small><a href="/projects/LogicX#disqus_thread">Comments</a></small> -->
-      </p>
-    </div>
-  </div>
-</h4>
+          <br class="visible-xs-block">
+          <!- - <small><a href="/projects/LogicX#disqus_thread">Comments</a></small> - - >
+          </p>
+        </div>
+      </div> -->
+    </h4>
 </div>
     <!-- Post List End -->
 
@@ -444,33 +462,54 @@ The frontend has been augmented with bootstrap css framework for compatibility w
           
 <!-- Post List Start -->
 
-<div class="col-md-4">
-<h4 align="left">
-  <div class="card text-center">
-    <a href="https://github.com/virresh/ArmAssemblySimulator">
-    
-    <img class="card-img-top" src="/img/project.png" alt="Arm Assembly Simulator">
-    
-    </a>
-    <div class="card-block">
-      <p class="">
-        <!-- <strong>10 Nov 2017</strong> <br> -->
-        <small>.
-          <a class="category" href="/categories/group.html">
-            Group
+<div class="col-md-4" style="min-height:150px;">
+    <h4 align="left">
+        <div class="center-block" style="height:250px; width:250px; display:flex; align-items:center; flex-direction: column; justify-content: center;">
+            <div > 
+                <a href="/projects/iDabba">
+                
+                <img class="img-fluid img-thumbnail" style="max-height:200px; max-width:200px" src="https://github.com/virresh/iDabba/raw/master/Meta/cookie.png" alt="iDabba">
+                
+                </a>
+            </div>
+            <div style="text-align:center;">
+                <small>.
+                  <a class="category" href="/categories/group.html">
+                    Group
+                  </a>
+                .</small>
+            </div>
+            <div style="text-align:center;">
+                <a href="https://github.com/virresh/iDabba">
+                  <strong>iDabba</strong>
+                </a>
+            </div>
+        </div>
+      <!-- <div class="card text-center">
+        <a href="/projects/iDabba">
+        
+        <img class="card-img-top img-fluid img-thumbnail" src="https://github.com/virresh/iDabba/raw/master/Meta/cookie.png" alt="iDabba">
+        
+        </a>
+        <div class="card-block">
+          <p class="">
+            <! - - <strong>20 Oct 2017</strong> <br> - - >
+            <small>.
+              <a class="category" href="/categories/group.html">
+                Group
+              </a>
+            .</small>
+          <br>
+          <br class="visible-xs-block">
+          <a href="https://github.com/virresh/iDabba">
+            <strong>iDabba</strong>
           </a>
-        .</small>
-      <br>
-      <br class="visible-xs-block">
-      <a href="/projects/ArmSimulator">
-        <strong>Arm Assembly Simulator</strong>
-      </a>
-      <br class="visible-xs-block">
-      <!-- <small><a href="/projects/ArmSimulator#disqus_thread">Comments</a></small> -->
-      </p>
-    </div>
-  </div>
-</h4>
+          <br class="visible-xs-block">
+          <!- - <small><a href="/projects/iDabba#disqus_thread">Comments</a></small> - - >
+          </p>
+        </div>
+      </div> -->
+    </h4>
 </div>
     <!-- Post List End -->
 
@@ -478,33 +517,54 @@ The frontend has been augmented with bootstrap css framework for compatibility w
           
 <!-- Post List Start -->
 
-<div class="col-md-4">
-<h4 align="left">
-  <div class="card text-center">
-    <a href="https://github.com/virresh/Schedulr">
-    
-    <img class="card-img-top" style="max-height: 250px;" src="https://github.com/virresh/Schedulr/raw/master/Schedulr/src/application/Images/Schedulr.png?raw=true" alt="Schedulr">
-    
-    </a>
-    <div class="card-block">
-      <p class="">
-        <!-- <strong>10 Sep 2017</strong> <br> -->
-        <small>.
-          <a class="category" href="/categories/group.html">
-            Group
+<div class="col-md-4" style="min-height:150px;">
+    <h4 align="left">
+        <div class="center-block" style="height:250px; width:250px; display:flex; align-items:center; flex-direction: column; justify-content: center;">
+            <div > 
+                <a href="/projects/Schedulr">
+                
+                <img class="img-fluid img-thumbnail" style="max-height:200px; max-width:200px" src="https://github.com/virresh/Schedulr/raw/master/Schedulr/src/application/Images/Schedulr.png?raw=true" alt="Schedulr">
+                
+                </a>
+            </div>
+            <div style="text-align:center;">
+                <small>.
+                  <a class="category" href="/categories/group.html">
+                    Group
+                  </a>
+                .</small>
+            </div>
+            <div style="text-align:center;">
+                <a href="https://github.com/virresh/Schedulr">
+                  <strong>Schedulr</strong>
+                </a>
+            </div>
+        </div>
+      <!-- <div class="card text-center">
+        <a href="/projects/Schedulr">
+        
+        <img class="card-img-top img-fluid img-thumbnail" src="https://github.com/virresh/Schedulr/raw/master/Schedulr/src/application/Images/Schedulr.png?raw=true" alt="Schedulr">
+        
+        </a>
+        <div class="card-block">
+          <p class="">
+            <! - - <strong>10 Sep 2017</strong> <br> - - >
+            <small>.
+              <a class="category" href="/categories/group.html">
+                Group
+              </a>
+            .</small>
+          <br>
+          <br class="visible-xs-block">
+          <a href="https://github.com/virresh/Schedulr">
+            <strong>Schedulr</strong>
           </a>
-        .</small>
-      <br>
-      <br class="visible-xs-block">
-      <a href="/projects/Schedulr">
-        <strong>Schedulr</strong>
-      </a>
-      <br class="visible-xs-block">
-      <!-- <small><a href="/projects/Schedulr#disqus_thread">Comments</a></small> -->
-      </p>
-    </div>
-  </div>
-</h4>
+          <br class="visible-xs-block">
+          <!- - <small><a href="/projects/Schedulr#disqus_thread">Comments</a></small> - - >
+          </p>
+        </div>
+      </div> -->
+    </h4>
 </div>
     <!-- Post List End -->
 
@@ -566,9 +626,11 @@ The frontend has been augmented with bootstrap css framework for compatibility w
       
         
       
+    
+      
         
       
-    
+        
       
         
       
@@ -679,52 +741,71 @@ The frontend has been augmented with bootstrap css framework for compatibility w
     <div class="col-md-12 col-md-offset-0">
 
       <h2 id="skills">Skills</h2>
+<p>(<a href="resume.html">Resume</a> | <a href="courses.html">Courses</a>)</p>
 
 
       <div class="row" style="margin: 5px;">
         
           
           
-          <div class="view overlay hm-blue-strong col-md-2">
-            <img src="/img/skills/c.png" class="img-fluid " alt="">
-            <div class="mask flex-center">
-              <p class="white-text">C++</p>
+      </div>
+      <div class="row" style="margin: 5px;">
+          
+          <!-- <div class="view overlay hm-black-strong col-md-2" style="padding:10px;"> -->
+          <div class="bcontainer col-md-2" style="padding:10px">
+            <img src="/img/skills/c.png" class="img-fluid img-thumbnail"  alt="">
+            <div class="overlay flex-center">
+              <p class="text">C++</p>
             </div>
           </div>
         
           
           
-          <div class="view overlay hm-blue-strong col-md-2">
-            <img src="/img/skills/chash.png" class="img-fluid " alt="">
-            <div class="mask flex-center">
-              <p class="white-text">C#</p>
+          <!-- <div class="view overlay hm-black-strong col-md-2" style="padding:10px;"> -->
+          <div class="bcontainer col-md-2" style="padding:10px">
+            <img src="/img/skills/chash.png" class="img-fluid img-thumbnail"  alt="">
+            <div class="overlay flex-center">
+              <p class="text">C#</p>
             </div>
           </div>
         
           
           
-          <div class="view overlay hm-blue-strong col-md-2">
-            <img src="/img/skills/python.png" class="img-fluid " alt="">
-            <div class="mask flex-center">
-              <p class="white-text">Python</p>
+          <!-- <div class="view overlay hm-black-strong col-md-2" style="padding:10px;"> -->
+          <div class="bcontainer col-md-2" style="padding:10px">
+            <img src="/img/skills/python.png" class="img-fluid img-thumbnail"  alt="">
+            <div class="overlay flex-center">
+              <p class="text">Python</p>
             </div>
           </div>
         
           
           
-          <div class="view overlay hm-blue-strong col-md-2">
-            <img src="/img/skills/jva.png" class="img-fluid " alt="">
-            <div class="mask flex-center">
-              <p class="white-text">Java</p>
+          <!-- <div class="view overlay hm-black-strong col-md-2" style="padding:10px;"> -->
+          <div class="bcontainer col-md-2" style="padding:10px">
+            <img src="/img/skills/jva.png" class="img-fluid img-thumbnail"  alt="">
+            <div class="overlay flex-center">
+              <p class="text">Java</p>
             </div>
           </div>
         
           
           
-          <div class="view overlay hm-blue-strong col-md-2">
-            <img src="/img/skills/sql.png" class="img-fluid " alt="">
-            <div class="mask flex-center">
-              <p class="white-text">SQL</p>
+          <!-- <div class="view overlay hm-black-strong col-md-2" style="padding:10px;"> -->
+          <div class="bcontainer col-md-2" style="padding:10px">
+            <img src="/img/skills/sql.png" class="img-fluid img-thumbnail"  alt="">
+            <div class="overlay flex-center">
+              <p class="text">SQL</p>
+            </div>
+          </div>
+        
+          
+          
+          <!-- <div class="view overlay hm-black-strong col-md-2" style="padding:10px;"> -->
+          <div class="bcontainer col-md-2" style="padding:10px">
+            <img src="/img/skills/php.png" class="img-fluid img-thumbnail"  alt="">
+            <div class="overlay flex-center">
+              <p class="text">PHP</p>
             </div>
           </div>
         
@@ -733,55 +814,61 @@ The frontend has been augmented with bootstrap css framework for compatibility w
       </div>
       <div class="row" style="margin: 5px;">
           
-          <div class="view overlay hm-blue-strong col-md-2">
-            <img src="/img/skills/php.png" class="img-fluid " alt="">
-            <div class="mask flex-center">
-              <p class="white-text">PHP</p>
+          <!-- <div class="view overlay hm-black-strong col-md-2" style="padding:10px;"> -->
+          <div class="bcontainer col-md-2" style="padding:10px">
+            <img src="/img/skills/html.png" class="img-fluid img-thumbnail"  alt="">
+            <div class="overlay flex-center">
+              <p class="text">HTML</p>
             </div>
           </div>
         
           
           
-          <div class="view overlay hm-blue-strong col-md-2">
-            <img src="/img/skills/html.png" class="img-fluid " alt="">
-            <div class="mask flex-center">
-              <p class="white-text">HTML</p>
+          <!-- <div class="view overlay hm-black-strong col-md-2" style="padding:10px;"> -->
+          <div class="bcontainer col-md-2" style="padding:10px">
+            <img src="/img/skills/css.png" class="img-fluid img-thumbnail"  alt="">
+            <div class="overlay flex-center">
+              <p class="text">CSS</p>
             </div>
           </div>
         
           
           
-          <div class="view overlay hm-blue-strong col-md-2">
-            <img src="/img/skills/css.png" class="img-fluid " alt="">
-            <div class="mask flex-center">
-              <p class="white-text">CSS</p>
+          <!-- <div class="view overlay hm-black-strong col-md-2" style="padding:10px;"> -->
+          <div class="bcontainer col-md-2" style="padding:10px">
+            <img src="/img/skills/ps.png" class="img-fluid img-thumbnail"  alt="">
+            <div class="overlay flex-center">
+              <p class="text">Photoshop</p>
             </div>
           </div>
         
           
           
-          <div class="view overlay hm-blue-strong col-md-2">
-            <img src="/img/skills/ps.png" class="img-fluid " alt="">
-            <div class="mask flex-center">
-              <p class="white-text">Photoshop</p>
+          <!-- <div class="view overlay hm-black-strong col-md-2" style="padding:10px;"> -->
+          <div class="bcontainer col-md-2" style="padding:10px">
+            <img src="/img/skills/blender.png" class="img-fluid img-thumbnail"  alt="">
+            <div class="overlay flex-center">
+              <p class="text">Blender</p>
             </div>
           </div>
         
           
           
-          <div class="view overlay hm-blue-strong col-md-2">
-            <img src="/img/skills/blender.png" class="img-fluid " alt="">
-            <div class="mask flex-center">
-              <p class="white-text">Blender</p>
+          <!-- <div class="view overlay hm-black-strong col-md-2" style="padding:10px;"> -->
+          <div class="bcontainer col-md-2" style="padding:10px">
+            <img src="/img/skills/unity.png" class="img-fluid img-thumbnail"  alt="">
+            <div class="overlay flex-center">
+              <p class="text">Unity</p>
             </div>
           </div>
         
           
           
-          <div class="view overlay hm-blue-strong col-md-2">
-            <img src="/img/skills/unity.png" class="img-fluid " alt="">
-            <div class="mask flex-center">
-              <p class="white-text">Unity</p>
+          <!-- <div class="view overlay hm-black-strong col-md-2" style="padding:10px;"> -->
+          <div class="bcontainer col-md-2" style="padding:10px">
+            <img src="/img/skills/flask.png" class="img-fluid img-thumbnail"  alt="">
+            <div class="overlay flex-center">
+              <p class="text">Flask</p>
             </div>
           </div>
         
@@ -790,55 +877,51 @@ The frontend has been augmented with bootstrap css framework for compatibility w
       </div>
       <div class="row" style="margin: 5px;">
           
-          <div class="view overlay hm-blue-strong col-md-2">
-            <img src="/img/skills/flask.png" class="img-fluid " alt="">
-            <div class="mask flex-center">
-              <p class="white-text">Flask</p>
+          <!-- <div class="view overlay hm-black-strong col-md-2" style="padding:10px;"> -->
+          <div class="bcontainer col-md-2" style="padding:10px">
+            <img src="/img/skills/Androidstudio.png" class="img-fluid img-thumbnail"  alt="">
+            <div class="overlay flex-center">
+              <p class="text">Android Studio</p>
             </div>
           </div>
         
           
           
-          <div class="view overlay hm-blue-strong col-md-2">
-            <img src="/img/skills/Androidstudio.png" class="img-fluid " alt="">
-            <div class="mask flex-center">
-              <p class="white-text">Android Studio</p>
+          <!-- <div class="view overlay hm-black-strong col-md-2" style="padding:10px;"> -->
+          <div class="bcontainer col-md-2" style="padding:10px">
+            <img src="/img/skills/git.png" class="img-fluid img-thumbnail"  alt="">
+            <div class="overlay flex-center">
+              <p class="text">Git</p>
             </div>
           </div>
         
           
           
-          <div class="view overlay hm-blue-strong col-md-2">
-            <img src="/img/skills/git.png" class="img-fluid " alt="">
-            <div class="mask flex-center">
-              <p class="white-text">Git</p>
+          <!-- <div class="view overlay hm-black-strong col-md-2" style="padding:10px;"> -->
+          <div class="bcontainer col-md-2" style="padding:10px">
+            <img src="/img/skills/vue.png" class="img-fluid img-thumbnail"  alt="">
+            <div class="overlay flex-center">
+              <p class="text">VueJS</p>
             </div>
           </div>
         
           
           
-          <div class="view overlay hm-blue-strong col-md-2">
-            <img src="/img/skills/vue.png" class="img-fluid " alt="">
-            <div class="mask flex-center">
-              <p class="white-text">VueJS</p>
+          <!-- <div class="view overlay hm-black-strong col-md-2" style="padding:10px;"> -->
+          <div class="bcontainer col-md-2" style="padding:10px">
+            <img src="/img/skills/bulma.png" class="img-fluid img-thumbnail"  alt="">
+            <div class="overlay flex-center">
+              <p class="text">Bulma</p>
             </div>
           </div>
         
           
           
-          <div class="view overlay hm-blue-strong col-md-2">
-            <img src="/img/skills/bulma.png" class="img-fluid " alt="">
-            <div class="mask flex-center">
-              <p class="white-text">Bulma</p>
-            </div>
-          </div>
-        
-          
-          
-          <div class="view overlay hm-blue-strong col-md-2">
-            <img src="/img/skills/bootstrap.png" class="img-fluid " alt="">
-            <div class="mask flex-center">
-              <p class="white-text">Bootstrap</p>
+          <!-- <div class="view overlay hm-black-strong col-md-2" style="padding:10px;"> -->
+          <div class="bcontainer col-md-2" style="padding:10px">
+            <img src="/img/skills/bootstrap.png" class="img-fluid img-thumbnail"  alt="">
+            <div class="overlay flex-center">
+              <p class="text">Bootstrap</p>
             </div>
           </div>
         
@@ -1232,10 +1315,6 @@ The frontend has been augmented with bootstrap css framework for compatibility w
       
         
       
-        
-      
-        
-      
     
       
         
@@ -1430,7 +1509,7 @@ The frontend has been augmented with bootstrap css framework for compatibility w
     </div>
 </footer>
 
-<p><br><br><br><br><br><br></p>
+<!-- <p><br><br><br><br><br><br></p> -->
 
 <!-- Footer End -->
 
