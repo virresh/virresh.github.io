@@ -7,6 +7,33 @@
 		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Ghost GAme Alexa Skill</title>
+				
+				
+					<description>&lt;p&gt;Alexa skill for the word game &lt;code class=&quot;highlighter-rouge&quot;&gt;ghost&lt;/code&gt;.&lt;/p&gt;
+
+</description>
+				
+				<!-- <pubDate>Sun, 15 Apr 2018 00:00:00 +0530</pubDate> -->
+				<link>http://localhost:4000/projects/ClubMan</link>
+				<guid isPermaLink="true">http://localhost:4000/projects/ClubMan</guid>
+			</item>
+		
+			<item>
+				<title>ClubMan</title>
+				
+				
+					<description>&lt;p&gt;This is a club management software, which helps a club to highlight it’s activities, showcase members and their achievements.&lt;br /&gt;
+It also provides a simple personalised web-page for all the members and a track of which member attended which event.&lt;/p&gt;
+
+</description>
+				
+				<!-- <pubDate>Tue, 20 Mar 2018 00:00:00 +0530</pubDate> -->
+				<link>http://localhost:4000/projects/ClubMan</link>
+				<guid isPermaLink="true">http://localhost:4000/projects/ClubMan</guid>
+			</item>
+		
+			<item>
 				<title>LogicX</title>
 				
 				
@@ -118,42 +145,6 @@ The following apps are open as of now :&lt;/p&gt;
 				<!-- <pubDate>Sun, 15 Jan 2017 00:00:00 +0530</pubDate> -->
 				<link>http://localhost:4000/projects/CardioSol</link>
 				<guid isPermaLink="true">http://localhost:4000/projects/CardioSol</guid>
-			</item>
-		
-			<item>
-				<title>Escapade Game</title>
-				
-				
-					<description>&lt;p&gt;This is a 3D single player virtual reality game in Unity, complete with the environment and a playable character. Uses Google Cardboard API and other freely availaible assets from Unity store.
-&lt;br /&gt;
-Making of the game &lt;a href=&quot;http://smwiki2016.wikidot.com/wiki:3d-game-development-using-unity&quot;&gt;documented here&lt;/a&gt;.
-&lt;br /&gt;
-Download the APK &lt;a href=&quot;https://github.com/virresh/SM-VR-Game/blob/master/Builds/finalGame.apk?raw=true&quot;&gt;here&lt;/a&gt; and play on your android phone !&lt;/p&gt;
-
-</description>
-				
-				<!-- <pubDate>Sun, 20 Nov 2016 00:00:00 +0530</pubDate> -->
-				<link>http://localhost:4000/projects/VrGame</link>
-				<guid isPermaLink="true">http://localhost:4000/projects/VrGame</guid>
-			</item>
-		
-			<item>
-				<title>Air Pollution Measurer</title>
-				
-				
-					<description>&lt;p&gt;This is an arduino based solution that can measure values from dust sensor (Sharp Dust Sensor) and Gas Sensor (MQ135) It then displays led colour in accordance with the sensor value to indicate amount of pollution, where the led blinks alternately, giving the output of both sensors visually on the same RGB led.
-&lt;br /&gt;
-Also you can access the Arduino code &lt;a href=&quot;https://github.com/virresh/air-pollution-makersbox&quot;&gt;here&lt;/a&gt;.
-&lt;br /&gt;
-Facebook Album for this MakersBox Hackathon - &lt;a href=&quot;https://www.facebook.com/pg/MakersBoxIN/photos/?tab=album&amp;amp;album_id=1205037819562064&quot;&gt;Link&lt;/a&gt;
-&lt;br /&gt;
-Image :
-&lt;img src=&quot;/img/projects/airpol.png&quot; /&gt;&lt;/p&gt;
-</description>
-				
-				<!-- <pubDate>Sat, 12 Nov 2016 00:00:00 +0530</pubDate> -->
-				<link>http://localhost:4000/projects/AirPol</link>
-				<guid isPermaLink="true">http://localhost:4000/projects/AirPol</guid>
 			</item>
 		
 	</channel>
