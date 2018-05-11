@@ -2,21 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
 		<title>{ Viresh Gupta }</title>
-		<description>Web Space of Viresh Gupta, Tech Enthusiast. Geek Stuff and Projects ;)</description>
+		<description>Web Space of Viresh Gupta. Tech Enthusiast. Geek Stuff and Projects ;)</description>
 		<link>http://localhost:4000</link>
 		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Ghost GAme Alexa Skill</title>
+				<title>GSoC 2018 @ coala.io</title>
 				
 				
-					<description>&lt;p&gt;Alexa skill for the word game &lt;code class=&quot;highlighter-rouge&quot;&gt;ghost&lt;/code&gt;.&lt;/p&gt;
+					<description>&lt;p&gt;I would be working on integrating ANTLRv4 in coala, to enable bear writers to write 
+advanced linting tools based on parse trees of the source code.&lt;/p&gt;
 
 </description>
 				
-				<!-- <pubDate>Sun, 15 Apr 2018 00:00:00 +0530</pubDate> -->
-				<link>http://localhost:4000/projects/ClubMan</link>
-				<guid isPermaLink="true">http://localhost:4000/projects/ClubMan</guid>
+				<!-- <pubDate>Wed, 04 Apr 2018 00:00:00 +0530</pubDate> -->
+				<link>http://localhost:4000/projects/GSoC18</link>
+				<guid isPermaLink="true">http://localhost:4000/projects/GSoC18</guid>
 			</item>
 		
 			<item>
@@ -31,6 +32,19 @@ It also provides a simple personalised web-page for all the members and a track 
 				<!-- <pubDate>Tue, 20 Mar 2018 00:00:00 +0530</pubDate> -->
 				<link>http://localhost:4000/projects/ClubMan</link>
 				<guid isPermaLink="true">http://localhost:4000/projects/ClubMan</guid>
+			</item>
+		
+			<item>
+				<title>Ghost Game Alexa Skill</title>
+				
+				
+					<description>&lt;p&gt;Alexa skill for the word game &lt;code class=&quot;highlighter-rouge&quot;&gt;ghost&lt;/code&gt;.&lt;/p&gt;
+
+</description>
+				
+				<!-- <pubDate>Thu, 15 Mar 2018 00:00:00 +0530</pubDate> -->
+				<link>http://localhost:4000/projects/ghostgamealexa</link>
+				<guid isPermaLink="true">http://localhost:4000/projects/ghostgamealexa</guid>
 			</item>
 		
 			<item>
@@ -132,19 +146,6 @@ The following apps are open as of now :&lt;/p&gt;
 				<!-- <pubDate>Mon, 20 Feb 2017 00:00:00 +0530</pubDate> -->
 				<link>http://localhost:4000/projects/AndWorkshop</link>
 				<guid isPermaLink="true">http://localhost:4000/projects/AndWorkshop</guid>
-			</item>
-		
-			<item>
-				<title>CardioSol</title>
-				
-				
-					<description>&lt;p&gt;CardioSol is one of the most efficient and easy ways of detecting the possible occurence of Tachycardia. Capable of detecting your heartbeat rate from the webcam, CardioSol is a must have for one’s well - being, as it carries out easy checkups at home. CardioSol does not need Internet connectivity and thus, comes to the rescue of people living in remote areas with poor internet connectivity, connecting them with suitable doctors in their city, in case they are detected with the possible occurence of the disease.&lt;/p&gt;
-
-</description>
-				
-				<!-- <pubDate>Sun, 15 Jan 2017 00:00:00 +0530</pubDate> -->
-				<link>http://localhost:4000/projects/CardioSol</link>
-				<guid isPermaLink="true">http://localhost:4000/projects/CardioSol</guid>
 			</item>
 		
 	</channel>
