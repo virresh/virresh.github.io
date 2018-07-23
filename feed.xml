@@ -3,8 +3,8 @@
 	<channel>
 		<title>{ Viresh Gupta }</title>
 		<description>Web Space of Viresh Gupta. Tech Enthusiast. Geek Stuff and Projects ;)</description>
-		<link>http://localhost:4000</link>
-		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+		<link>https://virresh.github.io</link>
+		<atom:link href="https://virresh.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>GSoC 2018 @ coala.io</title>
@@ -16,8 +16,8 @@ advanced linting tools based on parse trees of the source code.&lt;/p&gt;
 </description>
 				
 				<!-- <pubDate>Wed, 04 Apr 2018 00:00:00 +0530</pubDate> -->
-				<link>http://localhost:4000/projects/GSoC18</link>
-				<guid isPermaLink="true">http://localhost:4000/projects/GSoC18</guid>
+				<link>https://virresh.github.io/projects/GSoC18</link>
+				<guid isPermaLink="true">https://virresh.github.io/projects/GSoC18</guid>
 			</item>
 		
 			<item>
@@ -30,8 +30,8 @@ It also provides a simple personalised web-page for all the members and a track 
 </description>
 				
 				<!-- <pubDate>Tue, 20 Mar 2018 00:00:00 +0530</pubDate> -->
-				<link>http://localhost:4000/projects/ClubMan</link>
-				<guid isPermaLink="true">http://localhost:4000/projects/ClubMan</guid>
+				<link>https://virresh.github.io/projects/ClubMan</link>
+				<guid isPermaLink="true">https://virresh.github.io/projects/ClubMan</guid>
 			</item>
 		
 			<item>
@@ -43,8 +43,8 @@ It also provides a simple personalised web-page for all the members and a track 
 </description>
 				
 				<!-- <pubDate>Thu, 15 Mar 2018 00:00:00 +0530</pubDate> -->
-				<link>http://localhost:4000/projects/ghostgamealexa</link>
-				<guid isPermaLink="true">http://localhost:4000/projects/ghostgamealexa</guid>
+				<link>https://virresh.github.io/projects/ghostgamealexa</link>
+				<guid isPermaLink="true">https://virresh.github.io/projects/ghostgamealexa</guid>
 			</item>
 		
 			<item>
@@ -56,8 +56,8 @@ It also provides a simple personalised web-page for all the members and a track 
 </description>
 				
 				<!-- <pubDate>Mon, 18 Dec 2017 00:00:00 +0530</pubDate> -->
-				<link>http://localhost:4000/projects/LogicX</link>
-				<guid isPermaLink="true">http://localhost:4000/projects/LogicX</guid>
+				<link>https://virresh.github.io/projects/LogicX</link>
+				<guid isPermaLink="true">https://virresh.github.io/projects/LogicX</guid>
 			</item>
 		
 			<item>
@@ -69,8 +69,8 @@ It also provides a simple personalised web-page for all the members and a track 
 </description>
 				
 				<!-- <pubDate>Fri, 20 Oct 2017 00:00:00 +0530</pubDate> -->
-				<link>http://localhost:4000/projects/iDabba</link>
-				<guid isPermaLink="true">http://localhost:4000/projects/iDabba</guid>
+				<link>https://virresh.github.io/projects/iDabba</link>
+				<guid isPermaLink="true">https://virresh.github.io/projects/iDabba</guid>
 			</item>
 		
 			<item>
@@ -82,8 +82,8 @@ It also provides a simple personalised web-page for all the members and a track 
 </description>
 				
 				<!-- <pubDate>Sun, 10 Sep 2017 00:00:00 +0530</pubDate> -->
-				<link>http://localhost:4000/projects/Schedulr</link>
-				<guid isPermaLink="true">http://localhost:4000/projects/Schedulr</guid>
+				<link>https://virresh.github.io/projects/Schedulr</link>
+				<guid isPermaLink="true">https://virresh.github.io/projects/Schedulr</guid>
 			</item>
 		
 			<item>
@@ -95,8 +95,8 @@ It also provides a simple personalised web-page for all the members and a track 
 </description>
 				
 				<!-- <pubDate>Sat, 09 Sep 2017 00:00:00 +0530</pubDate> -->
-				<link>http://localhost:4000/projects/ArmSimulator</link>
-				<guid isPermaLink="true">http://localhost:4000/projects/ArmSimulator</guid>
+				<link>https://virresh.github.io/projects/ArmSimulator</link>
+				<guid isPermaLink="true">https://virresh.github.io/projects/ArmSimulator</guid>
 			</item>
 		
 			<item>
@@ -108,8 +108,8 @@ It also provides a simple personalised web-page for all the members and a track 
 </description>
 				
 				<!-- <pubDate>Fri, 25 Aug 2017 00:00:00 +0530</pubDate> -->
-				<link>http://localhost:4000/projects/FinGame</link>
-				<guid isPermaLink="true">http://localhost:4000/projects/FinGame</guid>
+				<link>https://virresh.github.io/projects/FinGame</link>
+				<guid isPermaLink="true">https://virresh.github.io/projects/FinGame</guid>
 			</item>
 		
 			<item>
@@ -121,8 +121,8 @@ It also provides a simple personalised web-page for all the members and a track 
 </description>
 				
 				<!-- <pubDate>Wed, 10 May 2017 00:00:00 +0530</pubDate> -->
-				<link>http://localhost:4000/projects/webDev</link>
-				<guid isPermaLink="true">http://localhost:4000/projects/webDev</guid>
+				<link>https://virresh.github.io/projects/webDev</link>
+				<guid isPermaLink="true">https://virresh.github.io/projects/webDev</guid>
 			</item>
 		
 			<item>
@@ -144,8 +144,8 @@ The following apps are open as of now :&lt;/p&gt;
 </description>
 				
 				<!-- <pubDate>Mon, 20 Feb 2017 00:00:00 +0530</pubDate> -->
-				<link>http://localhost:4000/projects/AndWorkshop</link>
-				<guid isPermaLink="true">http://localhost:4000/projects/AndWorkshop</guid>
+				<link>https://virresh.github.io/projects/AndWorkshop</link>
+				<guid isPermaLink="true">https://virresh.github.io/projects/AndWorkshop</guid>
 			</item>
 		
 	</channel>
