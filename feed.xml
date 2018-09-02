@@ -10,14 +10,35 @@
 				<title>GSoC 2018 @ coala.io</title>
 				
 				
-					<description>&lt;p&gt;I would be working on integrating ANTLRv4 in coala, to enable bear writers to write 
-advanced linting tools based on parse trees of the source code.&lt;/p&gt;
+					<description>&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;coantlib&lt;/code&gt; is a library that integrates ANTLRv4 in &lt;code class=&quot;highlighter-rouge&quot;&gt;coala&lt;/code&gt; and provides a linting API using parse trees
+that are generated from the source code.&lt;br /&gt;
+For GSoC’18 I integrated walkers for two languages - Python and XML.&lt;br /&gt;
+Detailed work report for GSoC’18 available at -&lt;br /&gt;
+&lt;a href=&quot;https://projects.coala.io/GSoC/2018/StatusReport/virresh&quot;&gt;https://projects.coala.io/GSoC/2018/StatusReport/virresh&lt;/a&gt;&lt;br /&gt;
+Find the project code at : &lt;a href=&quot;https://gitlab.com/coala/bears/coala-antlr&quot;&gt;https://gitlab.com/coala/bears/coala-antlr&lt;/a&gt;&lt;br /&gt;
+The project is now in open source domain under &lt;a href=&quot;https://coala.io/&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;coala&lt;/code&gt;&lt;/a&gt;.&lt;br /&gt;
+Openhub for this project : &lt;a href=&quot;https://www.openhub.net/p/coala-antlr&quot;&gt;https://www.openhub.net/p/coala-antlr&lt;/a&gt;&lt;br /&gt;
+For any queries / support regarding the project, feel free to drop by at &lt;a href=&quot;https://gitter.im/coala/ast&quot;&gt;https://gitter.im/coala/ast&lt;/a&gt;&lt;/p&gt;
+
+</description>
+				<!-- <pubDate>Sat, 04 Aug 2018 00:00:00 +0530</pubDate> -->
+				<link>https://virresh.github.io/projects/coantlib</link>
+				<guid isPermaLink="true">https://virresh.github.io/projects/coantlib</guid>
+			</item>
+		
+			<item>
+				<title>Chrome Extension</title>
+				
+				
+					<description>&lt;p&gt;This is a chrome extension built for convenience in navigation and utilisation of the intraday charts
+provided by NSE (National Stock Exchange). It loads symbols in the NIFTY50 dynamically and shows a direct
+link to open their intraday charts.&lt;/p&gt;
 
 </description>
 				
-				<!-- <pubDate>Wed, 04 Apr 2018 00:00:00 +0530</pubDate> -->
-				<link>https://virresh.github.io/projects/GSoC18</link>
-				<guid isPermaLink="true">https://virresh.github.io/projects/GSoC18</guid>
+				<!-- <pubDate>Tue, 01 May 2018 00:00:00 +0530</pubDate> -->
+				<link>https://virresh.github.io/projects/nseextension</link>
+				<guid isPermaLink="true">https://virresh.github.io/projects/nseextension</guid>
 			</item>
 		
 			<item>
@@ -45,6 +66,19 @@ It also provides a simple personalised web-page for all the members and a track 
 				<!-- <pubDate>Thu, 15 Mar 2018 00:00:00 +0530</pubDate> -->
 				<link>https://virresh.github.io/projects/ghostgamealexa</link>
 				<guid isPermaLink="true">https://virresh.github.io/projects/ghostgamealexa</guid>
+			</item>
+		
+			<item>
+				<title>Kernel Modules</title>
+				
+				
+					<description>&lt;p&gt;These are some linux kernel patches developed during the course of my Operating Systems course.&lt;/p&gt;
+
+</description>
+				
+				<!-- <pubDate>Thu, 01 Feb 2018 00:00:00 +0530</pubDate> -->
+				<link>https://virresh.github.io/projects/kernelmods</link>
+				<guid isPermaLink="true">https://virresh.github.io/projects/kernelmods</guid>
 			</item>
 		
 			<item>

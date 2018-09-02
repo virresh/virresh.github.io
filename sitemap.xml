@@ -187,9 +187,18 @@
   
   
     <url>
-      <loc>https://virresh.github.io/projects/GSoC18</loc>
+      <loc>https://virresh.github.io/projects/coantlib</loc>
       
-        <lastmod>2018-04-04T00:00:00+05:30</lastmod>
+        <lastmod>2018-08-04T00:00:00+05:30</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>https://virresh.github.io/projects/nseextension</loc>
+      
+        <lastmod>2018-05-01T00:00:00+05:30</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
@@ -208,6 +217,15 @@
       <loc>https://virresh.github.io/projects/ghostgamealexa</loc>
       
         <lastmod>2018-03-15T00:00:00+05:30</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>https://virresh.github.io/projects/kernelmods</loc>
+      
+        <lastmod>2018-02-01T00:00:00+05:30</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
