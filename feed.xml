@@ -7,6 +7,58 @@
 		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Pommerman</title>
+				
+				
+					<description>&lt;p&gt;This was a competition task at NeurIPS 2018 and I thoroughly enjoyed making this project.&lt;/p&gt;
+
+</description>
+				
+				<!-- <pubDate>Thu, 30 May 2019 00:00:00 +0530</pubDate> -->
+				<link>http://localhost:4000/projects/pommerman</link>
+				<guid isPermaLink="true">http://localhost:4000/projects/pommerman</guid>
+			</item>
+		
+			<item>
+				<title>Research Work</title>
+				
+				
+					<description>&lt;p&gt;I’ve been involved in expanding my knowledge through research as well. Some works (might be published sometime) are:&lt;/p&gt;
+
+</description>
+				
+				<!-- <pubDate>Tue, 30 Apr 2019 00:00:00 +0530</pubDate> -->
+				<link>http://localhost:4000/projects/research</link>
+				<guid isPermaLink="true">http://localhost:4000/projects/research</guid>
+			</item>
+		
+			<item>
+				<title>OSS and Community</title>
+				
+				
+					<description>&lt;p&gt;Several small open source contributions listed here because I might get back to where I left them off and they are hard to track down from my GitHub profile.&lt;/p&gt;
+
+</description>
+				
+				<!-- <pubDate>Tue, 01 Jan 2019 00:00:00 +0530</pubDate> -->
+				<link>http://localhost:4000/projects/oss</link>
+				<guid isPermaLink="true">http://localhost:4000/projects/oss</guid>
+			</item>
+		
+			<item>
+				<title>AI Algorithms</title>
+				
+				
+					<description>&lt;p&gt;These are my implementation of some classic AI search algorithms tied to a particular task, with some conclusive experiments. All code is available on github.&lt;/p&gt;
+
+</description>
+				
+				<!-- <pubDate>Sun, 02 Sep 2018 00:00:00 +0530</pubDate> -->
+				<link>http://localhost:4000/projects/ai-algo</link>
+				<guid isPermaLink="true">http://localhost:4000/projects/ai-algo</guid>
+			</item>
+		
+			<item>
 				<title>GSoC 2018 @ coala.io</title>
 				
 				
@@ -57,16 +109,16 @@ It also provides a simple personalised web-page for all the members and a track 
 			</item>
 		
 			<item>
-				<title>Ghost Game Alexa Skill</title>
+				<title>Alexa Skills</title>
 				
 				
-					<description>&lt;p&gt;Alexa skill for the word game &lt;code class=&quot;highlighter-rouge&quot;&gt;ghost&lt;/code&gt;.&lt;/p&gt;
+					<description>&lt;p&gt;I’ve published two Alexa Skills so far.&lt;/p&gt;
 
 </description>
 				
 				<!-- <pubDate>Thu, 15 Mar 2018 00:00:00 +0530</pubDate> -->
-				<link>http://localhost:4000/projects/ghostgamealexa</link>
-				<guid isPermaLink="true">http://localhost:4000/projects/ghostgamealexa</guid>
+				<link>http://localhost:4000/projects/alexaskills</link>
+				<guid isPermaLink="true">http://localhost:4000/projects/alexaskills</guid>
 			</item>
 		
 			<item>
@@ -93,58 +145,6 @@ It also provides a simple personalised web-page for all the members and a track 
 				<!-- <pubDate>Mon, 18 Dec 2017 00:00:00 +0530</pubDate> -->
 				<link>http://localhost:4000/projects/LogicX</link>
 				<guid isPermaLink="true">http://localhost:4000/projects/LogicX</guid>
-			</item>
-		
-			<item>
-				<title>iDabba</title>
-				
-				
-					<description>&lt;p&gt;The project, named “iDabba” is a smart container which identifies what fruit/vegetable/item is kept in it ( the item has to be one of those trained for image analysis ), the surrounding temperature, humidity of the item, and its weight. All this information is visible to the user via a web app. The container designed is fuss-free, convenient and washable. We were motivated to design this project to easily solve everyday hassles in kitchens and households regarding spoilage and infestation. It can even be scaled to meet the needs of farmers and storage companies for smart storing options and act as a small-scale silo.&lt;/p&gt;
-
-</description>
-				
-				<!-- <pubDate>Fri, 20 Oct 2017 00:00:00 +0530</pubDate> -->
-				<link>http://localhost:4000/projects/iDabba</link>
-				<guid isPermaLink="true">http://localhost:4000/projects/iDabba</guid>
-			</item>
-		
-			<item>
-				<title>Schedulr</title>
-				
-				
-					<description>&lt;p&gt;A javafx based program to handle the time table management of an institution Supports functionality for&lt;/p&gt;
-
-</description>
-				
-				<!-- <pubDate>Sun, 10 Sep 2017 00:00:00 +0530</pubDate> -->
-				<link>http://localhost:4000/projects/Schedulr</link>
-				<guid isPermaLink="true">http://localhost:4000/projects/Schedulr</guid>
-			</item>
-		
-			<item>
-				<title>Arm Assembly Simulator</title>
-				
-				
-					<description>&lt;p&gt;A simulator for ARM assembly language subset. Reads machine code from a file and simulates it like an arm processor in a 5 stage cycle.&lt;/p&gt;
-
-</description>
-				
-				<!-- <pubDate>Sat, 09 Sep 2017 00:00:00 +0530</pubDate> -->
-				<link>http://localhost:4000/projects/ArmSimulator</link>
-				<guid isPermaLink="true">http://localhost:4000/projects/ArmSimulator</guid>
-			</item>
-		
-			<item>
-				<title>FinGame</title>
-				
-				
-					<description>&lt;p&gt;A financial game aimed at teaching people more about finance, playable in levels, this game is a single player game with an optional two player mode, where one can compete against another friend and win. Aim of the game - Invest smart and end up with the maximum profit at the end of the game time.&lt;/p&gt;
-
-</description>
-				
-				<!-- <pubDate>Fri, 25 Aug 2017 00:00:00 +0530</pubDate> -->
-				<link>http://localhost:4000/projects/FinGame</link>
-				<guid isPermaLink="true">http://localhost:4000/projects/FinGame</guid>
 			</item>
 		
 	</channel>
