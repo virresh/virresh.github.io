@@ -116,8 +116,26 @@
     
   
     
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
       <url>
-        <loc>http://localhost:4000/projects/</loc>
+        <loc>https://virresh.github.io/projects/</loc>
         
           
           
@@ -130,7 +148,7 @@
   
     
       <url>
-        <loc>http://localhost:4000/</loc>
+        <loc>https://virresh.github.io/</loc>
         
           
           
@@ -254,8 +272,16 @@
     
   
     
+  
+    
+  
+    
+  
+    
+  
+    
       <url>
-        <loc>http://localhost:4000/projects/page2/</loc>
+        <loc>https://virresh.github.io/projects/page2/</loc>
         
           
           
@@ -268,7 +294,7 @@
   
   
     <url>
-      <loc>http://localhost:4000/projects/pommerman</loc>
+      <loc>https://virresh.github.io/projects/pommerman</loc>
       
         <lastmod>2019-05-30T00:00:00+05:30</lastmod>
       
@@ -277,7 +303,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/projects/research</loc>
+      <loc>https://virresh.github.io/projects/research</loc>
       
         <lastmod>2019-04-30T00:00:00+05:30</lastmod>
       
@@ -286,7 +312,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/projects/oss</loc>
+      <loc>https://virresh.github.io/projects/oss</loc>
       
         <lastmod>2019-01-01T00:00:00+05:30</lastmod>
       
@@ -295,7 +321,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/projects/ai-algo</loc>
+      <loc>https://virresh.github.io/projects/ai-algo</loc>
       
         <lastmod>2018-09-02T00:00:00+05:30</lastmod>
       
@@ -304,7 +330,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/projects/coantlib</loc>
+      <loc>https://virresh.github.io/projects/coantlib</loc>
       
         <lastmod>2018-08-04T00:00:00+05:30</lastmod>
       
@@ -313,7 +339,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/projects/nseextension</loc>
+      <loc>https://virresh.github.io/projects/nseextension</loc>
       
         <lastmod>2018-05-01T00:00:00+05:30</lastmod>
       
@@ -322,7 +348,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/projects/ClubMan</loc>
+      <loc>https://virresh.github.io/projects/ClubMan</loc>
       
         <lastmod>2018-03-20T00:00:00+05:30</lastmod>
       
@@ -331,7 +357,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/projects/alexaskills</loc>
+      <loc>https://virresh.github.io/projects/alexaskills</loc>
       
         <lastmod>2018-03-15T00:00:00+05:30</lastmod>
       
@@ -340,7 +366,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/projects/kernelmods</loc>
+      <loc>https://virresh.github.io/projects/kernelmods</loc>
       
         <lastmod>2018-02-01T00:00:00+05:30</lastmod>
       
@@ -349,7 +375,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/projects/LogicX</loc>
+      <loc>https://virresh.github.io/projects/LogicX</loc>
       
         <lastmod>2017-12-18T00:00:00+05:30</lastmod>
       
@@ -358,7 +384,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/projects/iDabba</loc>
+      <loc>https://virresh.github.io/projects/iDabba</loc>
       
         <lastmod>2017-10-20T00:00:00+05:30</lastmod>
       
@@ -367,7 +393,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/projects/Schedulr</loc>
+      <loc>https://virresh.github.io/projects/Schedulr</loc>
       
         <lastmod>2017-09-10T00:00:00+05:30</lastmod>
       
@@ -376,7 +402,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/projects/ArmSimulator</loc>
+      <loc>https://virresh.github.io/projects/ArmSimulator</loc>
       
         <lastmod>2017-09-09T00:00:00+05:30</lastmod>
       
@@ -385,7 +411,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/projects/FinGame</loc>
+      <loc>https://virresh.github.io/projects/FinGame</loc>
       
         <lastmod>2017-08-25T00:00:00+05:30</lastmod>
       
@@ -394,7 +420,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/projects/webDev</loc>
+      <loc>https://virresh.github.io/projects/webDev</loc>
       
         <lastmod>2017-05-10T00:00:00+05:30</lastmod>
       
@@ -403,7 +429,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/projects/AndWorkshop</loc>
+      <loc>https://virresh.github.io/projects/AndWorkshop</loc>
       
         <lastmod>2017-02-20T00:00:00+05:30</lastmod>
       
@@ -412,7 +438,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/projects/CardioSol</loc>
+      <loc>https://virresh.github.io/projects/CardioSol</loc>
       
         <lastmod>2017-01-15T00:00:00+05:30</lastmod>
       
@@ -421,7 +447,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/projects/VrGame</loc>
+      <loc>https://virresh.github.io/projects/VrGame</loc>
       
         <lastmod>2016-11-20T00:00:00+05:30</lastmod>
       
@@ -430,7 +456,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/projects/AirPol</loc>
+      <loc>https://virresh.github.io/projects/AirPol</loc>
       
         <lastmod>2016-11-12T00:00:00+05:30</lastmod>
       
@@ -439,7 +465,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/projects/BallGame</loc>
+      <loc>https://virresh.github.io/projects/BallGame</loc>
       
         <lastmod>2016-10-12T00:00:00+05:30</lastmod>
       
@@ -448,7 +474,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/projects/ChatIT</loc>
+      <loc>https://virresh.github.io/projects/ChatIT</loc>
       
         <lastmod>2016-08-15T00:00:00+05:30</lastmod>
       

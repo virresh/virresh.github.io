@@ -119,7 +119,7 @@
           
             <li>
             
-                <a href="/#timeline"> Skills </a>
+                <a href="/#experiences"> Experience </a>
             
             </li>
           
@@ -177,41 +177,10 @@
                 
                 
               
-            
-              
-                
-                
-              
-                
-                
-              
-                
-                
-              
-                
-                
-              
                 
                 
               
             
-              
-                
-                
-              
-                
-                
-              
-                
-                
-              
-            
-              
-                
-                
-              
-                
-                
               
                 
                 
@@ -251,16 +220,22 @@
                 
                 
               
-                
-                
-              
-                
-                
-              
-                
-                
-              
             
+              
+                
+                
+              
+                
+                
+              
+                
+                
+              
+                
+                
+              
+                
+                
               
                 
                 
@@ -323,18 +298,6 @@
                 
                 
               
-                
-                
-              
-                
-                
-              
-                
-                
-              
-                
-                
-              
             
               
                 
@@ -342,17 +305,6 @@
               
                 
                 
-              
-                
-                
-              
-                
-                
-              
-                
-                
-              
-            
               
                 
                 
@@ -386,24 +338,8 @@
                 
                 
               
-            
-              
                 
                 
-              
-                
-                
-              
-                
-                
-              
-                
-                
-              
-                
-                
-              
-            
               
                 
                 
@@ -468,6 +404,34 @@
                 
                 
               
+            
+              
+                
+                
+              
+                
+                
+              
+                
+                
+              
+                
+                
+              
+                
+                
+              
+            
+              
+                
+                
+              
+                
+                
+              
+                
+                
+              
                 
                 
               
@@ -505,6 +469,57 @@
                 
                 
               
+            
+              
+                
+                
+              
+                
+                
+              
+                
+                
+              
+                
+                
+              
+                
+                
+              
+            
+              
+                
+                
+              
+                
+                
+              
+                
+                
+              
+                
+                
+              
+                
+                
+              
+            
+              
+                
+                
+              
+                
+                
+              
+                
+                
+              
+                
+                
+              
+                
+                
+              
                 
                 
               
@@ -537,6 +552,9 @@
                 
               
             
+              
+                
+                
               
                 
                 
@@ -606,6 +624,49 @@
 <!-- Bootstrap Core JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 
+<script src="/js/d3-dispatch.min.js"></script>
+<script src="/js/d3.layout.cloud.js"></script>
+    
+    
+<script type="text/javascript" defer>
+  var layout = d3.layout.cloud()
+    .size([500, 500])
+    .words((["reinforcement-learning","RL","bomberman","game","player","AI","research","ML","DL","machine-learning","deep-learning","Computer Vision","NLP","open source","contributions","community","FOSS","A-Star","genetic-algorithm","memetic-algorithm","tsp","mini-max","tic-tac-toe","csp","course-scheduling","8-puzzle","ida-star","ANTLR","AST","api","integration","coala","Python","parse trees","Chrome","Extension","NSE","Charts","graphs","JS","Club Management","MySql","Database","JSP","website","Apache","Tomcat","Amazon","DynamoDB","scrapy","Alexa","Skill","voice","ssml","python","aws lambda","Linux","Kernel","Modules","C","Operating Systems","C++","online judge","hackathon","Object Detection","classification","rpi","flask","Java","gui","networking","socket","JavaFX","Arm","assembly","simulator","finance","Flask","Esya","HTML","CSS","HackIIITD","Google","Android","Apps","Tachycardia","opencv","tkinter","3D","Unity","VR","SM","MiniProject","CSharp","Arduino","Makersbox","Workshop","Hackathon","chat","webapp","deploy",]).map(function(d) {
+      return {text: d, size: 10 + Math.random() * 90, url: "/tags/"+d.toLowerCase()};
+    }))
+    .padding(5)
+    .rotate(function() { return ~~(Math.random() * 2) * 90; })
+    .font("Impact")
+    .fontSize(function(d) { return d.size; })
+    .on("end", draw);
+
+  layout.start();
+
+  function draw(words) {
+    var color = d3.scale.category20();
+    d3.select("#vis").append("svg")
+    .attr("preserveAspectRatio", "xMinYMin meet")
+    .attr("viewBox", "0 0 "+(layout.size()[0])+" "+(layout.size()[1]))
+      // .attr("width", layout.size()[0])
+      // .attr("height", layout.size()[1])
+    .append("g")
+      .attr("transform", "translate(" + layout.size()[0] / 2 + "," + layout.size()[1] / 2 + ")")
+    .selectAll("text")
+      .data(words)
+    .enter().append("svg:a")
+      .attr("xlink:href", function(d){return d.url;})
+    .append("text")
+      .style("font-size", function(d) { return d.size + "px"; })
+      .style("font-family", "Impact")
+      .attr("text-anchor", "middle")
+      .attr("transform", function(d) {
+      return "translate(" + [d.x, d.y] + ")rotate(" + d.rotate + ")";
+      })
+      .attr("fill",function(d,i){return color(i);})
+      .text(function(d) { return d.text; });
+  }
+</script>
+
 <!-- Plugin JavaScript -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
 
@@ -634,7 +695,7 @@ $(window).scroll(toggleNavCollapse);$(function(){$("a.page-scroll").bind("click"
 <script>
 function addTohistory() {
   if (!window.location.host.startsWith("127.0.0.1")) {
-    history.pushState({}, 'tutorial', 'http://localhost:4000/tags/tutorial.html');
+    history.pushState({}, 'tutorial', 'https://virresh.github.io/tags/tutorial.html');
   }
 }
 </script>
