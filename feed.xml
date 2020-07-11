@@ -3,8 +3,8 @@
 	<channel>
 		<title>{ Viresh Gupta }</title>
 		<description>Web Space of Viresh Gupta. Tech Enthusiast. Geek Stuff and Projects ;)</description>
-		<link>https://virresh.github.io</link>
-		<atom:link href="https://virresh.github.io/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://localhost:4000</link>
+		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Pommerman</title>
@@ -15,8 +15,8 @@
 </description>
 				
 				<!-- <pubDate>Thu, 30 May 2019 00:00:00 +0530</pubDate> -->
-				<link>https://virresh.github.io/projects/pommerman</link>
-				<guid isPermaLink="true">https://virresh.github.io/projects/pommerman</guid>
+				<link>http://localhost:4000/projects/pommerman</link>
+				<guid isPermaLink="true">http://localhost:4000/projects/pommerman</guid>
 			</item>
 		
 			<item>
@@ -28,8 +28,8 @@
 </description>
 				
 				<!-- <pubDate>Tue, 30 Apr 2019 00:00:00 +0530</pubDate> -->
-				<link>https://virresh.github.io/projects/research</link>
-				<guid isPermaLink="true">https://virresh.github.io/projects/research</guid>
+				<link>http://localhost:4000/projects/research</link>
+				<guid isPermaLink="true">http://localhost:4000/projects/research</guid>
 			</item>
 		
 			<item>
@@ -41,8 +41,8 @@
 </description>
 				
 				<!-- <pubDate>Tue, 01 Jan 2019 00:00:00 +0530</pubDate> -->
-				<link>https://virresh.github.io/projects/oss</link>
-				<guid isPermaLink="true">https://virresh.github.io/projects/oss</guid>
+				<link>http://localhost:4000/projects/oss</link>
+				<guid isPermaLink="true">http://localhost:4000/projects/oss</guid>
 			</item>
 		
 			<item>
@@ -54,8 +54,8 @@
 </description>
 				
 				<!-- <pubDate>Sun, 02 Sep 2018 00:00:00 +0530</pubDate> -->
-				<link>https://virresh.github.io/projects/ai-algo</link>
-				<guid isPermaLink="true">https://virresh.github.io/projects/ai-algo</guid>
+				<link>http://localhost:4000/projects/ai-algo</link>
+				<guid isPermaLink="true">http://localhost:4000/projects/ai-algo</guid>
 			</item>
 		
 			<item>
@@ -75,8 +75,8 @@ For any queries / support regarding the project, feel free to drop by at &lt;a h
 </description>
 				
 				<!-- <pubDate>Sat, 04 Aug 2018 00:00:00 +0530</pubDate> -->
-				<link>https://virresh.github.io/projects/coantlib</link>
-				<guid isPermaLink="true">https://virresh.github.io/projects/coantlib</guid>
+				<link>http://localhost:4000/projects/coantlib</link>
+				<guid isPermaLink="true">http://localhost:4000/projects/coantlib</guid>
 			</item>
 		
 			<item>
@@ -90,8 +90,8 @@ link to open their intraday charts.&lt;/p&gt;
 </description>
 				
 				<!-- <pubDate>Tue, 01 May 2018 00:00:00 +0530</pubDate> -->
-				<link>https://virresh.github.io/projects/nseextension</link>
-				<guid isPermaLink="true">https://virresh.github.io/projects/nseextension</guid>
+				<link>http://localhost:4000/projects/nseextension</link>
+				<guid isPermaLink="true">http://localhost:4000/projects/nseextension</guid>
 			</item>
 		
 			<item>
@@ -104,8 +104,8 @@ It also provides a simple personalised web-page for all the members and a track 
 </description>
 				
 				<!-- <pubDate>Tue, 20 Mar 2018 00:00:00 +0530</pubDate> -->
-				<link>https://virresh.github.io/projects/ClubMan</link>
-				<guid isPermaLink="true">https://virresh.github.io/projects/ClubMan</guid>
+				<link>http://localhost:4000/projects/ClubMan</link>
+				<guid isPermaLink="true">http://localhost:4000/projects/ClubMan</guid>
 			</item>
 		
 			<item>
@@ -117,8 +117,8 @@ It also provides a simple personalised web-page for all the members and a track 
 </description>
 				
 				<!-- <pubDate>Thu, 15 Mar 2018 00:00:00 +0530</pubDate> -->
-				<link>https://virresh.github.io/projects/alexaskills</link>
-				<guid isPermaLink="true">https://virresh.github.io/projects/alexaskills</guid>
+				<link>http://localhost:4000/projects/alexaskills</link>
+				<guid isPermaLink="true">http://localhost:4000/projects/alexaskills</guid>
 			</item>
 		
 			<item>
@@ -130,8 +130,8 @@ It also provides a simple personalised web-page for all the members and a track 
 </description>
 				
 				<!-- <pubDate>Thu, 01 Feb 2018 00:00:00 +0530</pubDate> -->
-				<link>https://virresh.github.io/projects/kernelmods</link>
-				<guid isPermaLink="true">https://virresh.github.io/projects/kernelmods</guid>
+				<link>http://localhost:4000/projects/kernelmods</link>
+				<guid isPermaLink="true">http://localhost:4000/projects/kernelmods</guid>
 			</item>
 		
 			<item>
@@ -143,8 +143,8 @@ It also provides a simple personalised web-page for all the members and a track 
 </description>
 				
 				<!-- <pubDate>Mon, 18 Dec 2017 00:00:00 +0530</pubDate> -->
-				<link>https://virresh.github.io/projects/LogicX</link>
-				<guid isPermaLink="true">https://virresh.github.io/projects/LogicX</guid>
+				<link>http://localhost:4000/projects/LogicX</link>
+				<guid isPermaLink="true">http://localhost:4000/projects/LogicX</guid>
 			</item>
 		
 	</channel>
