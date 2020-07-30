@@ -228,10 +228,11 @@ Report Issues / Request new features at: <a href="https://github.com/virresh/Sto
 Wiki Homepage: <a href="https://github.com/virresh/StockD/wiki">https://github.com/virresh/StockD/wiki</a>.</p>
 
 <h2 id="downloads">Downloads</h2>
-<p><span id="r-relintcustom">Fetching Latest Info …</span></p>
+<p><span id="r-relintcustom">Fetching Latest Info … <br /> If this doesn’t load, you can also go to <a href="https://github.com/virresh/StockD/releases/latest">github release page</a></span></p>
 
-<h4 id="i-request-the-users-to-download-stockd-only-from-the-official-download-link-above-this-ensures-virus-free-download-for-you-and-also-you-get-the-latest-version-always">I request the users to download StockD only from the official download link above. This ensures virus-free download for you and also you get the latest version always.</h4>
-<p>Code availaible  <a href="https://github.com/virresh/StockD/">here</a>.</p>
+<h4 id="i-request-the-users-to-download-stockd-only-from-the-official-download-link-above-or-the-official-github-release-page-link-above-as-well-this-ensures-virus-free-download-for-you-and-also-you-get-the-latest-version-always">I request the users to download StockD only from the official download link above or the official github release page (link above as well). This ensures virus-free download for you and also you get the latest version always.</h4>
+
+<p>Source Code availaible  <a href="https://github.com/virresh/StockD/">here</a>.</p>
 
 <h3 id="system-requirements">System Requirements</h3>
 <ul>
@@ -259,7 +260,7 @@ fetch('https://api.github.com/repos/virresh/StockD/releases/latest').then(
     function(j){
       var p = 0;
       var elem = document.getElementById('r-relintcustom');
-      elem.innerHTML = "";
+      elem.innerHTML = "Latest Version: " + j['tag_name'];
       var q = document.createElement('ul');
       elem.appendChild(q);
       j['assets'].forEach(function(currentVal, index, arr){
