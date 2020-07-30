@@ -7,6 +7,50 @@
 		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>StockD</title>
+				
+				
+					<description>&lt;p&gt;Yet another NSE EOD data downloader.&lt;br /&gt;
+Downloads and processes EOD bhavcopy files directly from NSE server and converts it in a format that can be
+easily loaded directly into many popular charting softwares such as MetaStock, Amibroker etc.&lt;/p&gt;
+
+</description>
+				
+				<!-- <pubDate>Mon, 01 Jun 2020 00:00:00 +0530</pubDate> -->
+				<link>http://localhost:4000/projects/stockd</link>
+				<guid isPermaLink="true">http://localhost:4000/projects/stockd</guid>
+			</item>
+		
+			<item>
+				<title>ArxInsania</title>
+				
+				
+					<description>&lt;p&gt;Game Brief:&lt;br /&gt;
+“You are an explorer on a quest to find the mythical Sanjeevni Booti scattered across undulated and mountainous terrains – with lush green plateaus, snow-capped mountains, shady forests and much more. However, nature is not in your favour, with giant pumpkins falling from the sky, threatening to crush you on impact. You need to make your way through 5 levels, with each level containing 5 Sanjeevni Booti to be collected, which are hidden under boulders that can be broken with projectiles.”&lt;/p&gt;
+
+</description>
+				
+				<!-- <pubDate>Wed, 01 Apr 2020 00:00:00 +0530</pubDate> -->
+				<link>http://localhost:4000/projects/arxinsania</link>
+				<guid isPermaLink="true">http://localhost:4000/projects/arxinsania</guid>
+			</item>
+		
+			<item>
+				<title>Sahayak</title>
+				
+				
+					<description>&lt;p&gt;As a part of Mobile Computing course, I managed a group of 10 people and together we developed an android application
+to connect mentors and mentees to facilitate online learning. This app is called “Sahayak” (सहायक) and uses OpenVidu
+as the service for online video calling.&lt;/p&gt;
+
+</description>
+				
+				<!-- <pubDate>Thu, 18 Jul 2019 00:00:00 +0530</pubDate> -->
+				<link>http://localhost:4000/projects/sahayak</link>
+				<guid isPermaLink="true">http://localhost:4000/projects/sahayak</guid>
+			</item>
+		
+			<item>
 				<title>Pommerman</title>
 				
 				
@@ -106,45 +150,6 @@ It also provides a simple personalised web-page for all the members and a track 
 				<!-- <pubDate>Tue, 20 Mar 2018 00:00:00 +0530</pubDate> -->
 				<link>http://localhost:4000/projects/ClubMan</link>
 				<guid isPermaLink="true">http://localhost:4000/projects/ClubMan</guid>
-			</item>
-		
-			<item>
-				<title>Alexa Skills</title>
-				
-				
-					<description>&lt;p&gt;I’ve published two Alexa Skills so far.&lt;/p&gt;
-
-</description>
-				
-				<!-- <pubDate>Thu, 15 Mar 2018 00:00:00 +0530</pubDate> -->
-				<link>http://localhost:4000/projects/alexaskills</link>
-				<guid isPermaLink="true">http://localhost:4000/projects/alexaskills</guid>
-			</item>
-		
-			<item>
-				<title>Kernel Modules</title>
-				
-				
-					<description>&lt;p&gt;These are some linux kernel patches developed during the course of my Operating Systems course.&lt;/p&gt;
-
-</description>
-				
-				<!-- <pubDate>Thu, 01 Feb 2018 00:00:00 +0530</pubDate> -->
-				<link>http://localhost:4000/projects/kernelmods</link>
-				<guid isPermaLink="true">http://localhost:4000/projects/kernelmods</guid>
-			</item>
-		
-			<item>
-				<title>LogicX</title>
-				
-				
-					<description>&lt;p&gt;This is an online judge intended to be used as a game for new programmers to learn the concepts of loops and operators. &lt;br /&gt;&lt;/p&gt;
-
-</description>
-				
-				<!-- <pubDate>Mon, 18 Dec 2017 00:00:00 +0530</pubDate> -->
-				<link>http://localhost:4000/projects/LogicX</link>
-				<guid isPermaLink="true">http://localhost:4000/projects/LogicX</guid>
 			</item>
 		
 	</channel>
