@@ -3,8 +3,8 @@
 	<channel>
 		<title>{ Viresh Gupta }</title>
 		<description>Web Space of Viresh Gupta. Tech Enthusiast. Geek Stuff and Projects ;)</description>
-		<link>http://localhost:4000</link>
-		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+		<link>https://virresh.github.io</link>
+		<atom:link href="https://virresh.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>StockD</title>
@@ -17,8 +17,8 @@ easily loaded directly into many popular charting softwares such as MetaStock, A
 </description>
 				
 				<!-- <pubDate>Mon, 01 Jun 2020 00:00:00 +0530</pubDate> -->
-				<link>http://localhost:4000/projects/stockd</link>
-				<guid isPermaLink="true">http://localhost:4000/projects/stockd</guid>
+				<link>https://virresh.github.io/projects/stockd</link>
+				<guid isPermaLink="true">https://virresh.github.io/projects/stockd</guid>
 			</item>
 		
 			<item>
@@ -31,8 +31,8 @@ easily loaded directly into many popular charting softwares such as MetaStock, A
 </description>
 				
 				<!-- <pubDate>Wed, 01 Apr 2020 00:00:00 +0530</pubDate> -->
-				<link>http://localhost:4000/projects/arxinsania</link>
-				<guid isPermaLink="true">http://localhost:4000/projects/arxinsania</guid>
+				<link>https://virresh.github.io/projects/arxinsania</link>
+				<guid isPermaLink="true">https://virresh.github.io/projects/arxinsania</guid>
 			</item>
 		
 			<item>
@@ -46,8 +46,8 @@ as the service for online video calling.&lt;/p&gt;
 </description>
 				
 				<!-- <pubDate>Thu, 18 Jul 2019 00:00:00 +0530</pubDate> -->
-				<link>http://localhost:4000/projects/sahayak</link>
-				<guid isPermaLink="true">http://localhost:4000/projects/sahayak</guid>
+				<link>https://virresh.github.io/projects/sahayak</link>
+				<guid isPermaLink="true">https://virresh.github.io/projects/sahayak</guid>
 			</item>
 		
 			<item>
@@ -59,8 +59,8 @@ as the service for online video calling.&lt;/p&gt;
 </description>
 				
 				<!-- <pubDate>Thu, 30 May 2019 00:00:00 +0530</pubDate> -->
-				<link>http://localhost:4000/projects/pommerman</link>
-				<guid isPermaLink="true">http://localhost:4000/projects/pommerman</guid>
+				<link>https://virresh.github.io/projects/pommerman</link>
+				<guid isPermaLink="true">https://virresh.github.io/projects/pommerman</guid>
 			</item>
 		
 			<item>
@@ -72,8 +72,8 @@ as the service for online video calling.&lt;/p&gt;
 </description>
 				
 				<!-- <pubDate>Tue, 30 Apr 2019 00:00:00 +0530</pubDate> -->
-				<link>http://localhost:4000/projects/research</link>
-				<guid isPermaLink="true">http://localhost:4000/projects/research</guid>
+				<link>https://virresh.github.io/projects/research</link>
+				<guid isPermaLink="true">https://virresh.github.io/projects/research</guid>
 			</item>
 		
 			<item>
@@ -85,8 +85,8 @@ as the service for online video calling.&lt;/p&gt;
 </description>
 				
 				<!-- <pubDate>Tue, 01 Jan 2019 00:00:00 +0530</pubDate> -->
-				<link>http://localhost:4000/projects/oss</link>
-				<guid isPermaLink="true">http://localhost:4000/projects/oss</guid>
+				<link>https://virresh.github.io/projects/oss</link>
+				<guid isPermaLink="true">https://virresh.github.io/projects/oss</guid>
 			</item>
 		
 			<item>
@@ -98,8 +98,8 @@ as the service for online video calling.&lt;/p&gt;
 </description>
 				
 				<!-- <pubDate>Sun, 02 Sep 2018 00:00:00 +0530</pubDate> -->
-				<link>http://localhost:4000/projects/ai-algo</link>
-				<guid isPermaLink="true">http://localhost:4000/projects/ai-algo</guid>
+				<link>https://virresh.github.io/projects/ai-algo</link>
+				<guid isPermaLink="true">https://virresh.github.io/projects/ai-algo</guid>
 			</item>
 		
 			<item>
@@ -119,8 +119,8 @@ For any queries / support regarding the project, feel free to drop by at &lt;a h
 </description>
 				
 				<!-- <pubDate>Sat, 04 Aug 2018 00:00:00 +0530</pubDate> -->
-				<link>http://localhost:4000/projects/coantlib</link>
-				<guid isPermaLink="true">http://localhost:4000/projects/coantlib</guid>
+				<link>https://virresh.github.io/projects/coantlib</link>
+				<guid isPermaLink="true">https://virresh.github.io/projects/coantlib</guid>
 			</item>
 		
 			<item>
@@ -134,8 +134,8 @@ link to open their intraday charts.&lt;/p&gt;
 </description>
 				
 				<!-- <pubDate>Tue, 01 May 2018 00:00:00 +0530</pubDate> -->
-				<link>http://localhost:4000/projects/nseextension</link>
-				<guid isPermaLink="true">http://localhost:4000/projects/nseextension</guid>
+				<link>https://virresh.github.io/projects/nseextension</link>
+				<guid isPermaLink="true">https://virresh.github.io/projects/nseextension</guid>
 			</item>
 		
 			<item>
@@ -148,8 +148,8 @@ It also provides a simple personalised web-page for all the members and a track 
 </description>
 				
 				<!-- <pubDate>Tue, 20 Mar 2018 00:00:00 +0530</pubDate> -->
-				<link>http://localhost:4000/projects/ClubMan</link>
-				<guid isPermaLink="true">http://localhost:4000/projects/ClubMan</guid>
+				<link>https://virresh.github.io/projects/ClubMan</link>
+				<guid isPermaLink="true">https://virresh.github.io/projects/ClubMan</guid>
 			</item>
 		
 	</channel>
