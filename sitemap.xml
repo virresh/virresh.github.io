@@ -154,6 +154,10 @@
     
   
     
+  
+    
+  
+    
       <url>
         <loc>https://virresh.github.io/projects/</loc>
         
@@ -308,6 +312,20 @@
     
   
     
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
       <url>
         <loc>https://virresh.github.io/projects/page2/</loc>
         
@@ -322,9 +340,27 @@
   
   
     <url>
+      <loc>https://virresh.github.io/projects/matvt</loc>
+      
+        <lastmod>2021-01-01T00:00:00+05:30</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
       <loc>https://virresh.github.io/projects/stockd</loc>
       
         <lastmod>2020-06-01T00:00:00+05:30</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>https://virresh.github.io/projects/cinp</loc>
+      
+        <lastmod>2020-05-01T00:00:00+05:30</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>

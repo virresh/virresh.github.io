@@ -7,6 +7,19 @@
 		<atom:link href="https://virresh.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>MATVT</title>
+				
+				
+					<description>&lt;p&gt;Simple, free and open source mouse toggle alternative.&lt;/p&gt;
+
+</description>
+				
+				<!-- <pubDate>Fri, 01 Jan 2021 00:00:00 +0530</pubDate> -->
+				<link>https://virresh.github.io/projects/matvt</link>
+				<guid isPermaLink="true">https://virresh.github.io/projects/matvt</guid>
+			</item>
+		
+			<item>
 				<title>StockD</title>
 				
 				
@@ -19,6 +32,19 @@ easily loaded directly into many popular charting softwares such as MetaStock, A
 				<!-- <pubDate>Mon, 01 Jun 2020 00:00:00 +0530</pubDate> -->
 				<link>https://virresh.github.io/projects/stockd</link>
 				<guid isPermaLink="true">https://virresh.github.io/projects/stockd</guid>
+			</item>
+		
+			<item>
+				<title>Comment Input</title>
+				
+				
+					<description>&lt;p&gt;Simplistic VSCode extension.&lt;/p&gt;
+
+</description>
+				
+				<!-- <pubDate>Fri, 01 May 2020 00:00:00 +0530</pubDate> -->
+				<link>https://virresh.github.io/projects/cinp</link>
+				<guid isPermaLink="true">https://virresh.github.io/projects/cinp</guid>
 			</item>
 		
 			<item>
@@ -121,35 +147,6 @@ For any queries / support regarding the project, feel free to drop by at &lt;a h
 				<!-- <pubDate>Sat, 04 Aug 2018 00:00:00 +0530</pubDate> -->
 				<link>https://virresh.github.io/projects/coantlib</link>
 				<guid isPermaLink="true">https://virresh.github.io/projects/coantlib</guid>
-			</item>
-		
-			<item>
-				<title>Chrome Extension</title>
-				
-				
-					<description>&lt;p&gt;This is a chrome extension built for convenience in navigation and utilisation of the intraday charts
-provided by NSE (National Stock Exchange). It loads symbols in the NIFTY50 dynamically and shows a direct
-link to open their intraday charts.&lt;/p&gt;
-
-</description>
-				
-				<!-- <pubDate>Tue, 01 May 2018 00:00:00 +0530</pubDate> -->
-				<link>https://virresh.github.io/projects/nseextension</link>
-				<guid isPermaLink="true">https://virresh.github.io/projects/nseextension</guid>
-			</item>
-		
-			<item>
-				<title>ClubMan</title>
-				
-				
-					<description>&lt;p&gt;This is a club management software, which helps a club to highlight it’s activities, showcase members and their achievements.&lt;br /&gt;
-It also provides a simple personalised web-page for all the members and a track of which member attended which event.&lt;/p&gt;
-
-</description>
-				
-				<!-- <pubDate>Tue, 20 Mar 2018 00:00:00 +0530</pubDate> -->
-				<link>https://virresh.github.io/projects/ClubMan</link>
-				<guid isPermaLink="true">https://virresh.github.io/projects/ClubMan</guid>
 			</item>
 		
 	</channel>
